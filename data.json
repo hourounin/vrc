@@ -1,0 +1,572 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": false,
+	"Categorys": [
+		{
+			"Category": "有名",
+			"Worlds": [
+				{
+					"ID": "wrld_6f55a286-b851-4d3e-8933-e7a31138edd7",
+					"Name": "PokoPeaLand",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "ぽこピーランドへようこそ！ 『甲賀流忍者ぽんぽこ』と『オシャレになりたい！ピーナッツくん』の２匹組『ぽこピー』による夢のテーマパークです！！POKOPEA's Dream Theme Park offers an unforgettable mix of horror and fun with roller coasters and attractions by popular Japanese Vtuber POKOPEAǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+					"Name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "【COSMORIA˸ VR Museum of Space】English and Korean are now availableǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "ゲームワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_262729a1-1eca-4f4a-b9ed-d00ffa663d6b",
+					"Name": "WORLD OF THE SOUL",
+					"RecommendedCapacity": 6,
+					"Capacity": 6,
+					"Description": "ソウルライクRPGワールドです。 プレイ人数：1～6人 セーブ機能あり Soul Like RPG World․ Number of players˸ 1-6 Save function available․ ＃WORLD_OF_THE_SOUL",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c077aa49-4820-472d-ace5-c11368f1e3f4",
+					"Name": "Project Aincrad 1․6․2p2",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Actively maintained recreation of Sword Art Online in VRChat‚ made by the ArgusVRC team․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d",
+					"Name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "【ENG ⁄ JP】【Ver․2․5】 SO MASSIVEǃǃǃǃ Massive local medals - global leaderboards ＆ instance-wide features awaitǃ でっけえ！！！！ メダルは負荷を考慮して非同期です。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_15f7034a-b074-4812-bfcb-317eaa2741de",
+					"Name": "Melon ＆ Chill Suika Game",
+					"RecommendedCapacity": 24,
+					"Capacity": 64,
+					"Description": "UPDATE˸ Persistence‚ Pets‚ and Personal Suikaǃ Cozy map to play suika game with your friends․ World high scores and four synced game boards with smooth real time physics․ Optimized Udon code for action-packed lag-free gameplay on both Quest and PC․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
+					"Name": "A Simple Fishing World",
+					"RecommendedCapacity": 28,
+					"Capacity": 80,
+					"Description": "［ Catch Fish using Physics Based Rodsǃ ］［ Complete your FishDexǃ ］ ［ Relax in a peaceful Environmentǃ ］ ⁄⁄ v27 - Spring is hereǃ New items in the seasonal shopǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_bfb833d8-b394-4972-a3cd-dc3580923936",
+					"Name": "ボーリング場",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "普通のボーリング場です（日本人向け）ビリヤード、スロットマシン、パウトリス（テトリス）、ラジコンカー、P-Shooters（対戦ゲーム）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_cae35e0f-1544-4209-82b9-85f349010c74",
+					"Name": "Destructible House",
+					"RecommendedCapacity": 15,
+					"Capacity": 25,
+					"Description": "Welcome to Destructible House v2․You can destroy this house․ To reset the house‚ you can rejoin the same world or create a new instance․ For synchronization of all destroyed objects and the house‚ players who join after the destruction are not allowed to resynchronize․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "ゲームワールド 音楽系",
+			"Worlds": [
+				{
+					"ID": "wrld_ba265839-272c-40c9-bed5-247b7ec0bb52",
+					"Name": "［JP］UDON-SABER うどんせいばー",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "≺PCVR REQUIRED≻｜とりせつ WebManual ≻≻ udonsaber․wordpress․com｜Quest版はUDON SABER QUESTで検索｜For Quest ver‚ search ＂UDON SABER QUEST＂․｜Stream ErrorはIPv6をOFFにしてみてください",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c2ea1a27-f3c4-4892-b919-4f3d95b055e3",
+					"Name": "［JP］UDON-SABER QUEST うどんせいばーQ",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "≺VR REQUIRED≻｜Quest Ver․ of ［JP］UDON-SABER｜とりせつ WebManual ≻≻ udonsaber․wordpress․com｜ワールド容量制限の都合上、PC版の一部のみ収録しています（時々入れ替え）｜Stream ErrorはIPv6をOFFにしてみてください",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_236bb7cd-dca2-44a2-9542-3b965e15d37d",
+					"Name": "RESONARK 4 ELVES Pt․1 - RhythmGame - v4․1․7a",
+					"RecommendedCapacity": 14,
+					"Capacity": 28,
+					"Description": "Rhythm game world for PCVR ＆ Desktop ＆ Android （Quest） ｜ Language˸ 日本語‚ English ｜ Player˸ 1-2",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_27f609ee-beae-40ba-941b-6af6af0efa66",
+					"Name": "RESONARK 4 ELVES Pt․2 - RhythmGame - v4․1․6",
+					"RecommendedCapacity": 14,
+					"Capacity": 28,
+					"Description": "Rhythm game world for PCVR ＆ Desktop ＆ Android （Quest） ｜ Language˸ 日本語‚ English ｜ Player˸ 1-2",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ebc06158-da47-4454-ba65-8e3248bd3bef",
+					"Name": "DuoBeat",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "DuoBeat is a shooting rhythm game featuring music made by artists from VRChat․ Play solo or in a group up to 10 players․ Save⁄Load your scores to keep your progressǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f059e174-249c-4aa9-b1f2-3873ed9dfd89",
+					"Name": "Just Dance VRChat",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "Just Dance inside VRChat with a working scoring system using motion captureǃ Over 700 songs‚ FBT support （but not required） ＆ much moreǃ （https˸⁄⁄discord․gg⁄jdvrc） （vrc․group⁄JDVRC․3387）（This world is fan-made and not affiliated with Ubisoft）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "ライドワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_94d1bce9-7b9e-4c58-8277-0fe62b5770c2",
+					"Name": "Submerge",
+					"RecommendedCapacity": 2,
+					"Capacity": 4,
+					"Description": "Take a ride to the depths below‚ 1-2 player world‚ please use a private instance․ - Spookality 2019 Updated for 2018 Unity․ fixed FBT station",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_480cc1fd-bd76-40be-a8e5-7b89bd548496",
+					"Name": "Submerge 2",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "The sequel to Submerge‚ venture into the abyss with Dr․ Angela and uncover the mysterious disappearance of NOAA expedition ship․ 4 player maximum․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "パーティクルライブ",
+			"Worlds": [
+				{
+					"ID": "wrld_3dcabc45-b66b-4d38-abaa-d2922ca4d678",
+					"Name": "Beyond a bit - 想像のちょっと先へ",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "＂From a seed's dream‚ tailes unravel․ Stars and lives blossom beyond our reach․＂ Created by team˸beyond_a_bit․ Member˸ EstyOctober‚ AYANO_TFT‚ sabakichi‚ わか⁄Waka123‚ wata23‚ yuki hata",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b",
+					"Name": "よるとうげ -Yorutouge-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "-星くんが誘うKikuo音楽体験世界- （Hoshikun invites you into the world of Kikuo music experiences） -この夜をこえよう。 高揚し、入り込み、溶かし、振り返り、ぐちゃぐちゃになりながら、 何度でもこの夜をこえよう。-Beyond the night․ Uplifting‚ immersing‚ melting‚ looking back‚ messing up․ Beyond the night again and again․ ＃よるとうげ ＃yorutouge",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "チルワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_8e2a85f0-6d3d-4d24-90aa-44e9b6a81f2e",
+					"Name": "nagisa no machi",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "静かな海辺の町です。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5",
+					"Name": "月に君影",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ワールド名の君影は「君影草」（＝スズランの異称）から取っています。 BGM˸孤独と共に／written by˸ゆうり 様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3b1ded52-a41d-40c3-8942-d429d802e4a5",
+					"Name": "天気雨のワルツ-Sun shower's Waltz",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "BGM˸https˸⁄⁄www․youtube․com⁄watch?v＝u5b2mkbV_rQ＆ab_channel＝DUGGYMUSIC",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_f0af0c41-6ed8-4e79-92a8-1ddd382e78bb",
+					"Name": "青天霹靂（夕）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "以前アップロードしたワールド「青天霹靂」の夕方バージョンです！BGM˸resonance of time／written by˸のる 様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "チルワールド 体験",
+			"Worlds": [
+				{
+					"ID": "wrld_bcf9cc6f-6e3c-4fa0-a0ff-c6a1c5645849",
+					"Name": "なでなでマッチング【PC Desktop＆VR両対応】",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "なでなでマッチング【PC Desktop＆VR両対応】 「なでたい、なでられたい」の相手を探すワールド 公式ハッシュタグ：＃なでなでマッチング",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f4e920ea-0bc3-402b-9d80-02691eeecbfb",
+					"Name": "THE Swimming Pool",
+					"RecommendedCapacity": 24,
+					"Capacity": 32,
+					"Description": "If you are tired of looking at flat static water‚ THE Swimming Pool brings you interactive 3d water to swim‚ make splash and wave․ Also included changing room‚ public shower‚ video player‚ pen‚ Billiards‚ and Beer Pong․ Inspired by existing world․ 2⁄1 Update˸ Terrain should now properly rendered in camera and camera gimmicks․ Changed the trigger position for underwater blur effect; 3cm lower for pool and 0․5cm higher for bath tub in world space․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "ルーム系",
+			"Worlds": [
+				{
+					"ID": "wrld_5f3ffd49-8ac4-4802-ac8e-7dc7163d1f24",
+					"Name": "BarRoom",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "お家でBarを楽しめるQuest対応ワールドです。寝室は中にいる人の声が外に聞こえなくなっています。This is a Quest compatible world where you can enjoy a bar at home․ The voices of people inside the bedroom cannot be heard outside․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038",
+					"Name": "Tiharuum - ちはるーむ",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "色んな人が普段使いしやすいワールドを目指して作りました！オリジナルで使いやすい動画タブレット、拡張メニューに30以上のゲーム、料理ギミック、アバター展示もあります。動作負荷も非常に軽いです。（更新日˸25⁄5⁄1）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_fa445f4a-13d9-4862-89fa-27ced5e238b6",
+					"Name": "あまねこるーむ -Sweet cat room-",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "色んな人がゆったりまったりできそうなお部屋を目指して作りました！便利なアバターオンリーミラーや、ハンドメニューを備えています！VR睡眠や雑談にどうぞ～！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_695dbaca-5edb-41d3-9afd-a0ed4c1ce65b",
+					"Name": "ChilRoom",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ChilRoom",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_05a179cd-bda9-464f-bf91-3597cfa6e27f",
+					"Name": "お風呂のある部屋 YUTOROOM -ゆとるーむ-",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "最高の風呂体験とチルワールド。左手トリガー2回押しでメニュー。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "ポータルワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
+					"Name": "［JP］ USiOPORT ウシヲポート",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "日本語対応Portal Worldです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1b385fae-cdbe-424c-bc9f-3aa24079084d",
+					"Name": "Departure",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "Twitterで＂＃VRChat_world紹介＂ タグが付いているワールド紹介のツイートを1時間おきに自動取得して展示しているワールドです。過去にさかのぼって表示することもできるます。 This is a world where tweets with the tag ＂＃VRChat_world紹介＂ on Twitter are automatically retrieved and displayed every hour․ It is also possible to go back to the past․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_de9ce32c-26a9-42ad-b66f-f2eee24887fe",
+					"Name": "パーティクルライブ全部見るPort",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "音と光、約280のポータル集です。VRCのパーティクルライブ、VRMV、Particle Animation、パリピ砲、VR lightshowを全部見るグループ（SSMV․4624）へのお礼に。（2018․12~2025․04。Private除く）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0b941918-9e2d-4267-97af-9177e0eac4d5",
+					"Name": "Tiwa's Portal World v3․0․2",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_3c7486d3-6cf4-42fd-bc46-071c682cb54d",
+					"Name": "［JP］Horror portal World _ホラーワールドポータルコレクション_",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "ホラーワールドのポータルを置いてたり私が置きたいものを置いているワールドです。新しいホラーワールドを見つけたら更新していきます。 2023_07_14 VCC対応⁄ワールドサムネ変更⁄ワールド名変更",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "MMD",
+			"Worlds": [
+				{
+					"ID": "wrld_3dfd4b3b-175f-438f-8d4d-ac553bea0dce",
+					"Name": "MR MMD World",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "MR MMD World․ Twitter - ＠VRC_Missing_ ｜ Twitter - ＠VRC_rang_lee",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9b26bf9f-e0c9-4b46-9bc9-1f88e271d7e5",
+					"Name": "YH MMD WORLD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "首个中文大型MMD房，不定时会更新歌曲。MMD世界讨论群：765807879 持久化歌曲收藏功能上线",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6aa7e36a-1449-4033-aaa0-3470a8460cfa",
+					"Name": "MMD",
+					"RecommendedCapacity": 7,
+					"Capacity": 15,
+					"Description": "Updated from time to time",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6ba03dc7-f639-47a8-8fb7-a7ee2ba4aefc",
+					"Name": "Nero's MMD world",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "Yet another MMD world‚ but I wanna make this one unique and include a bunch of good songs․ The world is under active development‚ last update May 08․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_776a6a37-f307-43f4-aeef-8f151f38dba4",
+					"Name": "MMD JP Music",
+					"RecommendedCapacity": 15,
+					"Capacity": 19,
+					"Description": "MMD JP-Music v3․2 11․14․2024 Ai＆Ae Team",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c7069c61-7fc7-4712-be19-23a2c11134c7",
+					"Name": "CA MMD WORLD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "CA MMD WORLD Sync Update",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_bf007a2f-3884-4261-aeb1-4ef081c6069e",
+					"Name": "Opera Epiclese",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Opera Epiclese",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "路上ライブ",
+			"Worlds": [
+				{
+					"ID": "wrld_9ba9fd77-31c7-432a-bcb4-8983bec75ef8",
+					"Name": "FirstNoteStation~始発駅~Night",
+					"RecommendedCapacity": 60,
+					"Capacity": 80,
+					"Description": "街中の駅をモチーフにしたストリートライブのためのワールドになります。駅前広場や公園の中、人通りの少ない裏通りなどでストリートライブを行う事が出来ます。公式グループもありますので、グループ内で演奏の告知などもして頂けます。ぜひお気軽にご利用ください。グループID VRFNS․0178 公式ハッシュタグ ＃VRFNS",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
+					"Name": "VRC 新宿駅 Shinjuku Station",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "［ X -≻ ＃VRSJK ］ VRC新宿ワールドへようこそ！ VRChatで最も有名な路上ライブ専用ワールドを目指しています。 音楽が好きな方は、ぜひお気軽にご参加ください！ VRC신주쿠 월드입니다․ VRChat에서 가장 유명한 버스킹 월드를 목표로 하고있습니다․ 음악을 좋아하신다면 자유롭게 들어오세요 ǃ Welcome to the VRC Shinjuku Worldǃ We aim to become the most famous busking world in VRChat․ If you love music‚ feel free to join usǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
+					"Name": "Japan Street 0․442",
+					"RecommendedCapacity": 60,
+					"Capacity": 80,
+					"Description": "［重要］VRC側のバグで偶に＂0MB＂になって入れなくなる場合があります、再アップロードで直せるので入れない場合は連絡ください。「どこかにありそうな、日本らしい街。」 日本の街並みを再現することを目標に、モデル持ち寄りにより共同で開発されているワールドです。ワールド制作協力者は随時募集中！ コンタクト≻≻ discord˸ YhK4gXr twitter˸ EngineerNeet",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "アバター",
+			"Worlds": [
+				{
+					"ID": "wrld_5ef1f09c-a4dc-4fef-8cc1-45d9b82dbe00",
+					"Name": "上原邸 Uehara Residence",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "アバター保管庫です。2025-03-19アバター投稿フォームを開設しました。⁄ Avatar storage․ 19 Mar 2025 Avatar Submission Form is now open․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		}
+	]
+}
