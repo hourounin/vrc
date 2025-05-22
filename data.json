@@ -447,6 +447,17 @@
 					}
 				},
 				{
+					"ID": "wrld_6ba03dc7-f639-47a8-8fb7-a7ee2ba4aefc",
+					"Name": "Nero's MMD world",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "Yet another MMD world‚ but I wanna make this one unique and include a bunch of good songs․ The world is under active development‚ last update May 08․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_9b26bf9f-e0c9-4b46-9bc9-1f88e271d7e5",
 					"Name": "YH MMD WORLD",
 					"RecommendedCapacity": 16,
@@ -469,16 +480,21 @@
 					}
 				},
 				{
-					"ID": "wrld_6ba03dc7-f639-47a8-8fb7-a7ee2ba4aefc",
-					"Name": "Nero's MMD world",
+					"ID": "wrld_bf007a2f-3884-4261-aeb1-4ef081c6069e",
+					"Name": "Opera Epiclese",
 					"RecommendedCapacity": 16,
-					"Capacity": 24,
-					"Description": "Yet another MMD world‚ but I wanna make this one unique and include a bunch of good songs․ The world is under active development‚ last update May 08․",
+					"Capacity": 32,
+					"Description": "Opera Epiclese",
 					"Platform": {
 						"PC": true,
 						"Android": false
 					}
-				},
+				}
+			]
+		},
+		{
+			"Category": "",
+			"Worlds": [
 				{
 					"ID": "wrld_776a6a37-f307-43f4-aeef-8f151f38dba4",
 					"Name": "MMD JP Music",
@@ -496,17 +512,6 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "CA MMD WORLD Sync Update",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
-					"ID": "wrld_bf007a2f-3884-4261-aeb1-4ef081c6069e",
-					"Name": "Opera Epiclese",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "Opera Epiclese",
 					"Platform": {
 						"PC": true,
 						"Android": false
