@@ -469,6 +469,28 @@
 					}
 				},
 				{
+					"ID": "wrld_46eefef5-1907-4d59-9f05-1108cba20455",
+					"Name": "Aparches MMD World",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "Updated 2025-03-15",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5111901a-64d2-49fd-8b6c-80c2044402a0",
+					"Name": "Sap MMD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Sap MMD world",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_6aa7e36a-1449-4033-aaa0-3470a8460cfa",
 					"Name": "MMD",
 					"RecommendedCapacity": 7,
@@ -489,11 +511,22 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_85225af2-d48d-49f4-a817-fc8b641248a8",
+					"Name": "Nero's MMD world VIP",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Yet another MMD world‚ but I wanna make this one unique and include a bunch of good songs․ The world is under active development‚ last update May 14․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
 		{
-			"Category": "",
+			"Category": "MMD 問題あり",
 			"Worlds": [
 				{
 					"ID": "wrld_776a6a37-f307-43f4-aeef-8f151f38dba4",
@@ -566,6 +599,55 @@
 					"RecommendedCapacity": 64,
 					"Capacity": 64,
 					"Description": "アバター保管庫です。2025-03-19アバター投稿フォームを開設しました。⁄ Avatar storage․ 19 Mar 2025 Avatar Submission Form is now open․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "Sample",
+			"Worlds": [
+				{
+					"ID": "wrld_73e48317-ae3a-463a-9ae2-1fde4c810ad1",
+					"Name": "MaterialSniperǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "MaterialSniperǃ shooting game",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_54ade570-dc66-4727-a168-08cfa4227d2e",
+					"Name": "PolygonDungeon",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "アバターのポリゴン数で出題されるお題を解いていくゲームワールドです。いろんなアバター使ったりして遊んでね！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c87d9e7a-d46a-4ca4-9077-a6322ac0f7e7",
+					"Name": "Smash Contest スマッシュコンテスト",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "サンドバッグを殴って蹴ってHome Run！かっこよく飛ばせたら＃SMACONでシェア！Made with Udon",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_79e0100d-f0f9-498a-8976-e3fc8a70ca2a",
+					"Name": "Spirit Speak Game",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Communicate across dimensions in this 3-8 player party game․ By jar",
 					"Platform": {
 						"PC": true,
 						"Android": true
