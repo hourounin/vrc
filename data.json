@@ -480,17 +480,6 @@
 					}
 				},
 				{
-					"ID": "wrld_5111901a-64d2-49fd-8b6c-80c2044402a0",
-					"Name": "Sap MMD",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "Sap MMD world",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
 					"ID": "wrld_6aa7e36a-1449-4033-aaa0-3470a8460cfa",
 					"Name": "MMD",
 					"RecommendedCapacity": 7,
