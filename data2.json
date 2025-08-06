@@ -21,18 +21,18 @@
 					"Name": "Re_OceanView",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "Questにも対応させたよ",
+					"Description": "Re_OceanView",
 					"Platform": {
 						"PC": true,
-						"Android": true
+						"Android": false
 					}
 				},
 				{
 					"ID": "wrld_7f0adf55-99cb-4c8c-8b3e-985595303423",
-					"Name": "きぷきぷ",
+					"Name": "SlantedCeilingRoom",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "キプを愛でながら、好きな動画を見たり音楽を聴く、個人的ワールド",
+					"Description": "SlantedCeilingRoom",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -43,17 +43,6 @@
 		{
 			"Category": "フレンドワールド",
 			"Worlds": [
-				{
-					"ID": "wrld_7118d237-4f98-4bfe-8f7d-1f692e2395e5",
-					"Name": "雲呼",
-					"RecommendedCapacity": 1,
-					"Capacity": 15,
-					"Description": "雲呼",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
 				{
 					"ID": "wrld_c279dcfe-d781-4d9a-a1b5-e9528d30688f",
 					"Name": "R room",
@@ -71,6 +60,44 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		},
+		{
+			"Category": "CHIHAYA ちはや",
+			"Worlds": [
+				{
+					"ID": "wrld_bcf9cc6f-6e3c-4fa0-a0ff-c6a1c5645849",
+					"Name": "なでなでマッチング【PC Desktop＆VR両対応】",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "なでなでマッチング【PC Desktop＆VR両対応】 「なでたい、なでられたい」の相手を探すワールド 公式ハッシュタグ：＃なでなでマッチング",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_12306749-b63f-439a-8873-921546d3b9bc",
+					"Name": "Shangri-La 2 Public",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "To all my Partons‚ thank you for supporting meǃ https˸⁄⁄shangri-la․fanbox․cc⁄",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_016072bc-dda2-4d62-bb71-3101eebd3e55",
+					"Name": "首輪でお散歩 Collar Kubiwa",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "首輪でお散歩 Collar Kubiwa",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -150,51 +177,13 @@
 			]
 		},
 		{
-			"Category": "CHIHAYA ちはや",
-			"Worlds": [
-				{
-					"ID": "wrld_bcf9cc6f-6e3c-4fa0-a0ff-c6a1c5645849",
-					"Name": "なでなでマッチング【PC Desktop＆VR両対応】",
-					"RecommendedCapacity": 30,
-					"Capacity": 30,
-					"Description": "なでなでマッチング【PC Desktop＆VR両対応】 「なでたい、なでられたい」の相手を探すワールド 公式ハッシュタグ：＃なでなでマッチング",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
-				},
-				{
-					"ID": "wrld_12306749-b63f-439a-8873-921546d3b9bc",
-					"Name": "Shangri-La 2 Public",
-					"RecommendedCapacity": 30,
-					"Capacity": 30,
-					"Description": "To all my Partons‚ thank you for supporting meǃ https˸⁄⁄shangri-la․fanbox․cc⁄",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				},
-				{
-					"ID": "wrld_016072bc-dda2-4d62-bb71-3101eebd3e55",
-					"Name": "首輪でお散歩 Collar Kubiwa",
-					"RecommendedCapacity": 25,
-					"Capacity": 50,
-					"Description": "首輪でお散歩 Collar Kubiwa",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
-				}
-			]
-		},
-		{
 			"Category": "Coco_Mo",
 			"Worlds": [
 				{
 					"ID": "wrld_334e42cf-6374-4a2b-bd38-174b72c2e232",
 					"Name": "【VRMV】Who Killed U․N․Owen",
-					"RecommendedCapacity": 3,
-					"Capacity": 3,
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
 					"Description": "おててをくるくる、ふってみて。 きらきらお羽根を揺らしたならば、にこっと笑って、手をのばす。 あなたも一緒に、踊りましょ？",
 					"Platform": {
 						"PC": true,
@@ -250,7 +239,29 @@
 					"Name": "［VRMV］Catchy ǃ?",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "12作目",
+					"Description": "揺れる四番線",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_440f9450-34db-4509-abef-0a769279e98b",
+					"Name": "【VRMV】あけたらしめろよ星人",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "13作目 こんなに何度も言われれば覚えるはずなのに！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_f473bdea-ef31-4794-8a95-664ff04c193c",
+					"Name": "【VRMV】無意識レクイエム",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "14作目",
 					"Platform": {
 						"PC": true,
 						"Android": false
