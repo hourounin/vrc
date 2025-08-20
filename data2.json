@@ -173,6 +173,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c",
+					"Name": "Room for dancing",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "This room cannot be a public room․ Let's enjoy it only with gentleman friends on PC․ If you can add me as a friend‚ we can do various thingsǃ If you would like to use this for private or group use‚ please try the following worldID＝wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c このお部屋は事情があってパブリックルームにはできません。紳士のお友達はPCかPC-VRで遊んでね。もし私をフレンドにしてくれたら、一緒に遊んだり、新しいコンテンツ開発に協力してもらったりしちゃいます。また、もしプライベートやグループでこの部屋を使いたい場合は以下のworldIDからお試しください。worldId＝wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
