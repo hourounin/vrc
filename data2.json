@@ -224,6 +224,28 @@
 					}
 				},
 				{
+					"ID": "wrld_7291b8c8-c3a7-4543-a801-990fffbee90a",
+					"Name": "【VRMV】One Room‚ All That Jazz ǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "好きなものを好きなだけ 駄目なものは駄目なりに",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5b4de235-ee14-4f52-87e1-1c7e6e6f36bd",
+					"Name": "【VRMV】東方セレブ ～ABUNAI SISTERS～（Short版）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "あのね、今回のプランはね",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_4847dfc2-6720-45af-a594-d106526cfe0c",
 					"Name": "【VRMV】匙ノ咒",
 					"RecommendedCapacity": 16,
