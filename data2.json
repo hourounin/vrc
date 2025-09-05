@@ -213,22 +213,22 @@
 					}
 				},
 				{
-					"ID": "wrld_a395bb2c-dbb6-408b-b288-e9b06485b82b",
-					"Name": "［VRMV］あなたしか見えないの",
+					"ID": "wrld_7291b8c8-c3a7-4543-a801-990fffbee90a",
+					"Name": "【VRMV】One Room‚ All That Jazz ǃ",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "目も当てられないわ",
+					"Description": "好きなものを好きなだけ 駄目なものは駄目なりに",
 					"Platform": {
 						"PC": true,
 						"Android": false
 					}
 				},
 				{
-					"ID": "wrld_7291b8c8-c3a7-4543-a801-990fffbee90a",
-					"Name": "【VRMV】One Room‚ All That Jazz ǃ",
+					"ID": "wrld_a395bb2c-dbb6-408b-b288-e9b06485b82b",
+					"Name": "［VRMV］あなたしか見えないの",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "好きなものを好きなだけ 駄目なものは駄目なりに",
+					"Description": "目も当てられないわ",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -295,6 +295,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "14作目",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1f522eeb-a6c4-45af-96c3-6c647fdf82e9",
+					"Name": "【VRMV】Pavlovian Love",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "15作目",
 					"Platform": {
 						"PC": true,
 						"Android": false
