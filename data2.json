@@ -321,6 +321,13 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_cf6ab04f-412f-4b9f-9ef1-6470afe5fc60",
+					"Name": "",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "16作目 いますぐ輪廻"
 				}
 			]
 		}
