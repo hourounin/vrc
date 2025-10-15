@@ -24,7 +24,7 @@
 					"Description": "Re_OceanView",
 					"Platform": {
 						"PC": true,
-						"Android": false
+						"Android": true
 					}
 				},
 				{
@@ -43,7 +43,11 @@
 					"Name": "Gaming Hideout Night",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "Gaming Hideout Night"
+					"Description": "Gaming Hideout Night",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
