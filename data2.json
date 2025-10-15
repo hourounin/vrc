@@ -37,6 +37,13 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_bc684a49-1ba0-4124-a47f-427087b8bed8",
+					"Name": "Gaming Hideout Night",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Gaming Hideout Night"
 				}
 			]
 		},
