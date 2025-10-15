@@ -10,44 +10,35 @@
 					"Name": "ワールド勉強用",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "入室ログ追加 QVPen追加 時計追加 動画プレイヤー変更 防音部屋追加",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
+					"Description": "入室ログ追加 QVPen追加 時計追加 動画プレイヤー変更 防音部屋追加"
 				},
 				{
 					"ID": "wrld_152bcd52-43e9-460b-8051-5ba4fd430376",
 					"Name": "Re_OceanView",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "Re_OceanView",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
+					"Description": "Questにも対応させたよ"
 				},
 				{
 					"ID": "wrld_7f0adf55-99cb-4c8c-8b3e-985595303423",
-					"Name": "SlantedCeilingRoom",
+					"Name": "きぷきぷ",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "SlantedCeilingRoom",
-					"Platform": {
-						"PC": true,
-						"Android": true
-					}
+					"Description": "キプを愛でながら、好きな動画を見たり音楽を聴く、個人的ワールド"
+				},
+				{
+					"ID": "wrld_6d56fd33-2fd9-4d5d-a2ce-e9c6c15d6aa8",
+					"Name": "Hotel House",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "実験用"
 				},
 				{
 					"ID": "wrld_bc684a49-1ba0-4124-a47f-427087b8bed8",
 					"Name": "Gaming Hideout Night",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "Gaming Hideout Night",
-					"Platform": {
-						"PC": true,
-						"Android": false
-					}
+					"Description": "Gaming Hideout Night"
 				}
 			]
 		},
