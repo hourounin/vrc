@@ -59,6 +59,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_cd209638-6e4a-411e-b456-57fb53999dbb",
+					"Name": "LuminousHotel",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "LuminousHotel",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -235,11 +246,33 @@
 					}
 				},
 				{
+					"ID": "wrld_7291b8c8-c3a7-4543-a801-990fffbee90a",
+					"Name": "【VRMV】One Room‚ All That Jazz ǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "好きなものを好きなだけ 駄目なものは駄目なりに",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
 					"ID": "wrld_a395bb2c-dbb6-408b-b288-e9b06485b82b",
 					"Name": "［VRMV］あなたしか見えないの",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "目も当てられないわ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5b4de235-ee14-4f52-87e1-1c7e6e6f36bd",
+					"Name": "【VRMV】東方セレブ ～ABUNAI SISTERS～（Short版）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "あのね、今回のプランはね",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -273,6 +306,39 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "12作目",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_440f9450-34db-4509-abef-0a769279e98b",
+					"Name": "【VRMV】あけたらしめろよ星人",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "13作目 こんなに何度も言われれば覚えるはずなのに！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_f473bdea-ef31-4794-8a95-664ff04c193c",
+					"Name": "【VRMV】無意識レクイエム",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "14作目 わたしのこと、気づいてくれた？",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1f522eeb-a6c4-45af-96c3-6c647fdf82e9",
+					"Name": "【VRMV】Pavlovian Love",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "15作目",
 					"Platform": {
 						"PC": true,
 						"Android": false
