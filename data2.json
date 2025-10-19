@@ -179,6 +179,28 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c",
+					"Name": "Room for dancing",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "This room cannot be a public room․ Let's enjoy it only with gentleman friends on PC․ If you can add me as a friend‚ we can do various thingsǃ If you would like to use this for private or group use‚ please try the following worldID＝wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c このお部屋は事情があってパブリックルームにはできません。紳士のお友達はPCかPC-VRで遊んでね。もし私をフレンドにしてくれたら、一緒に遊んだり、新しいコンテンツ開発に協力してもらったりしちゃいます。また、もしプライベートやグループでこの部屋を使いたい場合は以下のworldIDからお試しください。worldId＝wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c\nPASS 0831",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a76d2ddb-7ce3-4150-b9eb-4b33917fd130",
+					"Name": "GiGi's MMD ＆ Chill",
+					"RecommendedCapacity": 10,
+					"Capacity": 32,
+					"Description": "Early Access⁄Testing․ V․I․P․ access now in BETA‚‚‚ NPC Dancers‚ VIP-NPCS‚ Games‚ Video player‚ Toys and more․ Localized for 15 languages․\nVIP: 8675\nLead Dancers: 4329\nBackup Dancers: 7615",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -339,6 +361,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "15作目",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_cf6ab04f-412f-4b9f-9ef1-6470afe5fc60",
+					"Name": "",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "16作目 いますぐ輪廻",
 					"Platform": {
 						"PC": true,
 						"Android": false
