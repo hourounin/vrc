@@ -1,0 +1,1833 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": false,
+	"Categorys": [
+		{
+			"Category": "有名",
+			"Worlds": [
+				{
+					"ID": "wrld_6f55a286-b851-4d3e-8933-e7a31138edd7",
+					"Name": "PokoPeaLand",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "ぽこピーランドへようこそ！ 『甲賀流忍者ぽんぽこ』と『オシャレになりたい！ピーナッツくん』の２匹組『ぽこピー』による夢のテーマパークです！！POKOPEA's Dream Theme Park offers an unforgettable mix of horror and fun with roller coasters and attractions by popular Japanese Vtuber POKOPEAǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+					"Name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "【COSMORIA˸ VR Museum of Space】English and Korean are now availableǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ゲームワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_262729a1-1eca-4f4a-b9ed-d00ffa663d6b",
+					"Name": "WORLD OF THE SOUL",
+					"RecommendedCapacity": 6,
+					"Capacity": 6,
+					"Description": "ソウルライクRPGワールドです。 プレイ人数：1～6人 セーブ機能あり Soul Like RPG World․ Number of players˸ 1-6 Save function available․ ＃WORLD_OF_THE_SOUL",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c077aa49-4820-472d-ace5-c11368f1e3f4",
+					"Name": "Project Aincrad 1․6․2p2",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Actively maintained recreation of Sword Art Online in VRChat‚ made by the ArgusVRC team․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d",
+					"Name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "【ENG ⁄ JP】【Ver․2․5】 SO MASSIVEǃǃǃǃ Massive local medals - global leaderboards ＆ instance-wide features awaitǃ でっけえ！！！！ メダルは負荷を考慮して非同期です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_15f7034a-b074-4812-bfcb-317eaa2741de",
+					"Name": "Melon ＆ Chill Suika Game",
+					"RecommendedCapacity": 24,
+					"Capacity": 64,
+					"Description": "UPDATE˸ Persistence‚ Pets‚ and Personal Suikaǃ Cozy map to play suika game with your friends․ World high scores and four synced game boards with smooth real time physics․ Optimized Udon code for action-packed lag-free gameplay on both Quest and PC․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
+					"Name": "A Simple Fishing World",
+					"RecommendedCapacity": 28,
+					"Capacity": 80,
+					"Description": "［ Catch Fish using Physics Based Rodsǃ ］［ Complete your FishDexǃ ］ ［ Relax in a peaceful Environmentǃ ］ ⁄⁄ v27 - Spring is hereǃ New items in the seasonal shopǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bfb833d8-b394-4972-a3cd-dc3580923936",
+					"Name": "ボーリング場",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "普通のボーリング場です（日本人向け）ビリヤード、スロットマシン、パウトリス（テトリス）、ラジコンカー、P-Shooters（対戦ゲーム）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cae35e0f-1544-4209-82b9-85f349010c74",
+					"Name": "Destructible House",
+					"RecommendedCapacity": 15,
+					"Capacity": 25,
+					"Description": "Welcome to Destructible House v2․You can destroy this house․ To reset the house‚ you can rejoin the same world or create a new instance․ For synchronization of all destroyed objects and the house‚ players who join after the destruction are not allowed to resynchronize․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ゲームワールド 音楽系",
+			"Worlds": [
+				{
+					"ID": "wrld_ba265839-272c-40c9-bed5-247b7ec0bb52",
+					"Name": "［JP］UDON-SABER うどんせいばー",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "≺PCVR REQUIRED≻｜とりせつ WebManual ≻≻ udonsaber․wordpress․com｜Quest版はUDON SABER QUESTで検索｜For Quest ver‚ search ＂UDON SABER QUEST＂․｜Stream ErrorはIPv6をOFFにしてみてください",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c2ea1a27-f3c4-4892-b919-4f3d95b055e3",
+					"Name": "［JP］UDON-SABER QUEST うどんせいばーQ",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "≺VR REQUIRED≻｜Quest Ver․ of ［JP］UDON-SABER｜とりせつ WebManual ≻≻ udonsaber․wordpress․com｜ワールド容量制限の都合上、PC版の一部のみ収録しています（時々入れ替え）｜Stream ErrorはIPv6をOFFにしてみてください",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_236bb7cd-dca2-44a2-9542-3b965e15d37d",
+					"Name": "RESONARK 4 ELVES Pt․1 - RhythmGame - v4․1․7a",
+					"RecommendedCapacity": 14,
+					"Capacity": 28,
+					"Description": "Rhythm game world for PCVR ＆ Desktop ＆ Android （Quest） ｜ Language˸ 日本語‚ English ｜ Player˸ 1-2",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_27f609ee-beae-40ba-941b-6af6af0efa66",
+					"Name": "RESONARK 4 ELVES Pt․2 - RhythmGame - v4․1․6",
+					"RecommendedCapacity": 14,
+					"Capacity": 28,
+					"Description": "Rhythm game world for PCVR ＆ Desktop ＆ Android （Quest） ｜ Language˸ 日本語‚ English ｜ Player˸ 1-2",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ebc06158-da47-4454-ba65-8e3248bd3bef",
+					"Name": "DuoBeat",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "DuoBeat is a shooting rhythm game featuring music made by artists from VRChat․ Play solo or in a group up to 10 players․ Save⁄Load your scores to keep your progressǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f059e174-249c-4aa9-b1f2-3873ed9dfd89",
+					"Name": "Just Dance VRChat",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "Just Dance inside VRChat with a working scoring system using motion captureǃ Over 700 songs‚ FBT support （but not required） ＆ much moreǃ （https˸⁄⁄discord․gg⁄jdvrc） （vrc․group⁄JDVRC․3387）（This world is fan-made and not affiliated with Ubisoft）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ライドワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_94d1bce9-7b9e-4c58-8277-0fe62b5770c2",
+					"Name": "Submerge",
+					"RecommendedCapacity": 2,
+					"Capacity": 4,
+					"Description": "Take a ride to the depths below‚ 1-2 player world‚ please use a private instance․ - Spookality 2019 Updated for 2018 Unity․ fixed FBT station",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_480cc1fd-bd76-40be-a8e5-7b89bd548496",
+					"Name": "Submerge 2",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "The sequel to Submerge‚ venture into the abyss with Dr․ Angela and uncover the mysterious disappearance of NOAA expedition ship․ 4 player maximum․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "パーティクルライブ",
+			"Worlds": [
+				{
+					"ID": "wrld_3dcabc45-b66b-4d38-abaa-d2922ca4d678",
+					"Name": "Beyond a bit - 想像のちょっと先へ",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "＂From a seed's dream‚ tailes unravel․ Stars and lives blossom beyond our reach․＂ Created by team˸beyond_a_bit․ Member˸ EstyOctober‚ AYANO_TFT‚ sabakichi‚ わか⁄Waka123‚ wata23‚ yuki hata",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b",
+					"Name": "よるとうげ -Yorutouge-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "-星くんが誘うKikuo音楽体験世界- （Hoshikun invites you into the world of Kikuo music experiences） -この夜をこえよう。 高揚し、入り込み、溶かし、振り返り、ぐちゃぐちゃになりながら、 何度でもこの夜をこえよう。-Beyond the night․ Uplifting‚ immersing‚ melting‚ looking back‚ messing up․ Beyond the night again and again․ ＃よるとうげ ＃yorutouge",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "チルワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_8e2a85f0-6d3d-4d24-90aa-44e9b6a81f2e",
+					"Name": "nagisa no machi",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "静かな海辺の町です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5",
+					"Name": "月に君影",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ワールド名の君影は「君影草」（＝スズランの異称）から取っています。 BGM˸孤独と共に／written by˸ゆうり 様",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3b1ded52-a41d-40c3-8942-d429d802e4a5",
+					"Name": "天気雨のワルツ-Sun shower's Waltz",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "BGM˸https˸⁄⁄www․youtube․com⁄watch?v＝u5b2mkbV_rQ＆ab_channel＝DUGGYMUSIC",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f0af0c41-6ed8-4e79-92a8-1ddd382e78bb",
+					"Name": "青天霹靂（夕）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "以前アップロードしたワールド「青天霹靂」の夕方バージョンです！BGM˸resonance of time／written by˸のる 様",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "チルワールド 体験",
+			"Worlds": [
+				{
+					"ID": "wrld_bcf9cc6f-6e3c-4fa0-a0ff-c6a1c5645849",
+					"Name": "なでなでマッチング【PC Desktop＆VR両対応】",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "なでなでマッチング【PC Desktop＆VR両対応】 「なでたい、なでられたい」の相手を探すワールド 公式ハッシュタグ：＃なでなでマッチング",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f4e920ea-0bc3-402b-9d80-02691eeecbfb",
+					"Name": "THE Swimming Pool",
+					"RecommendedCapacity": 24,
+					"Capacity": 32,
+					"Description": "If you are tired of looking at flat static water‚ THE Swimming Pool brings you interactive 3d water to swim‚ make splash and wave․ Also included changing room‚ public shower‚ video player‚ pen‚ Billiards‚ and Beer Pong․ Inspired by existing world․ 2⁄1 Update˸ Terrain should now properly rendered in camera and camera gimmicks․ Changed the trigger position for underwater blur effect; 3cm lower for pool and 0․5cm higher for bath tub in world space․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ルーム系",
+			"Worlds": [
+				{
+					"ID": "wrld_5f3ffd49-8ac4-4802-ac8e-7dc7163d1f24",
+					"Name": "BarRoom",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "お家でBarを楽しめるQuest対応ワールドです。寝室は中にいる人の声が外に聞こえなくなっています。This is a Quest compatible world where you can enjoy a bar at home․ The voices of people inside the bedroom cannot be heard outside․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038",
+					"Name": "Tiharuum - ちはるーむ",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "色んな人が普段使いしやすいワールドを目指して作りました！オリジナルで使いやすい動画タブレット、拡張メニューに30以上のゲーム、料理ギミック、アバター展示もあります。動作負荷も非常に軽いです。（更新日˸25⁄5⁄1）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fa445f4a-13d9-4862-89fa-27ced5e238b6",
+					"Name": "あまねこるーむ -Sweet cat room-",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "色んな人がゆったりまったりできそうなお部屋を目指して作りました！便利なアバターオンリーミラーや、ハンドメニューを備えています！VR睡眠や雑談にどうぞ～！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_695dbaca-5edb-41d3-9afd-a0ed4c1ce65b",
+					"Name": "ChilRoom",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ChilRoom",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_05a179cd-bda9-464f-bf91-3597cfa6e27f",
+					"Name": "お風呂のある部屋 YUTOROOM -ゆとるーむ-",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "最高の風呂体験とチルワールド。左手トリガー2回押しでメニュー。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ポータルワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
+					"Name": "［JP］ USiOPORT ウシヲポート",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "日本語対応Portal Worldです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1b385fae-cdbe-424c-bc9f-3aa24079084d",
+					"Name": "Departure",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "Twitterで＂＃VRChat_world紹介＂ タグが付いているワールド紹介のツイートを1時間おきに自動取得して展示しているワールドです。過去にさかのぼって表示することもできるます。 This is a world where tweets with the tag ＂＃VRChat_world紹介＂ on Twitter are automatically retrieved and displayed every hour․ It is also possible to go back to the past․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_de9ce32c-26a9-42ad-b66f-f2eee24887fe",
+					"Name": "パーティクルライブ全部見るPort",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "音と光、約280のポータル集です。VRCのパーティクルライブ、VRMV、Particle Animation、パリピ砲、VR lightshowを全部見るグループ（SSMV․4624）へのお礼に。（2018․12~2025․04。Private除く）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0b941918-9e2d-4267-97af-9177e0eac4d5",
+					"Name": "Tiwa's Portal World v3․0․2",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3c7486d3-6cf4-42fd-bc46-071c682cb54d",
+					"Name": "［JP］Horror portal World _ホラーワールドポータルコレクション_",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "ホラーワールドのポータルを置いてたり私が置きたいものを置いているワールドです。新しいホラーワールドを見つけたら更新していきます。 2023_07_14 VCC対応⁄ワールドサムネ変更⁄ワールド名変更",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "MMD",
+			"Worlds": [
+				{
+					"ID": "wrld_3dfd4b3b-175f-438f-8d4d-ac553bea0dce",
+					"Name": "MR MMD World",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "MR MMD World․ Twitter - ＠VRC_Missing_ ｜ Twitter - ＠VRC_rang_lee",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6ba03dc7-f639-47a8-8fb7-a7ee2ba4aefc",
+					"Name": "Nero's MMD world",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "Yet another MMD world‚ but I wanna make this one unique and include a bunch of good songs․ The world is under active development‚ last update May 08․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9b26bf9f-e0c9-4b46-9bc9-1f88e271d7e5",
+					"Name": "YH MMD WORLD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "首个中文大型MMD房，不定时会更新歌曲。MMD世界讨论群：765807879 持久化歌曲收藏功能上线",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_46eefef5-1907-4d59-9f05-1108cba20455",
+					"Name": "Aparches MMD World",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "Updated 2025-03-15",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6aa7e36a-1449-4033-aaa0-3470a8460cfa",
+					"Name": "MMD",
+					"RecommendedCapacity": 7,
+					"Capacity": 15,
+					"Description": "Updated from time to time",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bf007a2f-3884-4261-aeb1-4ef081c6069e",
+					"Name": "Opera Epiclese",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Opera Epiclese",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_85225af2-d48d-49f4-a817-fc8b641248a8",
+					"Name": "Nero's MMD world VIP",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Yet another MMD world‚ but I wanna make this one unique and include a bunch of good songs․ The world is under active development‚ last update May 14․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "MMD 問題あり",
+			"Worlds": [
+				{
+					"ID": "wrld_776a6a37-f307-43f4-aeef-8f151f38dba4",
+					"Name": "MMD JP Music",
+					"RecommendedCapacity": 15,
+					"Capacity": 19,
+					"Description": "MMD JP-Music v3․2 11․14․2024 Ai＆Ae Team",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c7069c61-7fc7-4712-be19-23a2c11134c7",
+					"Name": "CA MMD WORLD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "CA MMD WORLD Sync Update",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "路上ライブ",
+			"Worlds": [
+				{
+					"ID": "wrld_9ba9fd77-31c7-432a-bcb4-8983bec75ef8",
+					"Name": "FirstNoteStation~始発駅~Night",
+					"RecommendedCapacity": 60,
+					"Capacity": 80,
+					"Description": "街中の駅をモチーフにしたストリートライブのためのワールドになります。駅前広場や公園の中、人通りの少ない裏通りなどでストリートライブを行う事が出来ます。公式グループもありますので、グループ内で演奏の告知などもして頂けます。ぜひお気軽にご利用ください。グループID VRFNS․0178 公式ハッシュタグ ＃VRFNS",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
+					"Name": "VRC 新宿駅 Shinjuku Station",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "［ X -≻ ＃VRSJK ］ VRC新宿ワールドへようこそ！ VRChatで最も有名な路上ライブ専用ワールドを目指しています。 音楽が好きな方は、ぜひお気軽にご参加ください！ VRC신주쿠 월드입니다․ VRChat에서 가장 유명한 버스킹 월드를 목표로 하고있습니다․ 음악을 좋아하신다면 자유롭게 들어오세요 ǃ Welcome to the VRC Shinjuku Worldǃ We aim to become the most famous busking world in VRChat․ If you love music‚ feel free to join usǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
+					"Name": "Japan Street 0․442",
+					"RecommendedCapacity": 60,
+					"Capacity": 80,
+					"Description": "［重要］VRC側のバグで偶に＂0MB＂になって入れなくなる場合があります、再アップロードで直せるので入れない場合は連絡ください。「どこかにありそうな、日本らしい街。」 日本の街並みを再現することを目標に、モデル持ち寄りにより共同で開発されているワールドです。ワールド制作協力者は随時募集中！ コンタクト≻≻ discord˸ YhK4gXr twitter˸ EngineerNeet",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "アバター",
+			"Worlds": [
+				{
+					"ID": "wrld_5ef1f09c-a4dc-4fef-8cc1-45d9b82dbe00",
+					"Name": "上原邸 Uehara Residence",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "アバター保管庫です。2025-03-19アバター投稿フォームを開設しました。⁄ Avatar storage․ 19 Mar 2025 Avatar Submission Form is now open․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "Sample",
+			"Worlds": [
+				{
+					"ID": "wrld_73e48317-ae3a-463a-9ae2-1fde4c810ad1",
+					"Name": "MaterialSniperǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "MaterialSniperǃ shooting game",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_54ade570-dc66-4727-a168-08cfa4227d2e",
+					"Name": "PolygonDungeon",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "アバターのポリゴン数で出題されるお題を解いていくゲームワールドです。いろんなアバター使ったりして遊んでね！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c87d9e7a-d46a-4ca4-9077-a6322ac0f7e7",
+					"Name": "Smash Contest スマッシュコンテスト",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "サンドバッグを殴って蹴ってHome Run！かっこよく飛ばせたら＃SMACONでシェア！Made with Udon",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_79e0100d-f0f9-498a-8976-e3fc8a70ca2a",
+					"Name": "Spirit Speak Game",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Communicate across dimensions in this 3-8 player party game․ By jar",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9a51b365-d6cc-42e6-901a-54ceb46b94ef",
+					"Name": "Super Tower Defense",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "A juicy Tower Defense game made for VRChat․ Stop the Cars from reaching your heart ≺3․ Desktop and VR compatible․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c7423848-bb22-4cba-9341-37d8b076b6fd",
+					"Name": "Tanksǃ",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Time for battleǃ （2-10 players）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c8401de9-ab65-41f8-9a1d-bb34cb9a9e8b",
+					"Name": "Udon Chicken Horse",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Multiplayer PvP game （2~4） - Create a path that gives you an advantage and reach the goal faster than anyone elseǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c55e3115-ba69-4000-83ff-8e1819543f5e",
+					"Name": "こんちゃんコヨーテ！~Kon-chan Coyoteǃ~",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "プレイ人数：2人～。 プレイ時間：２０分くらい。 ボードゲーム「コヨーテ」が遊べるワールドです！山札をカスタマイズできるコアなファン向けのモードもあります！ みどりの森°アバター「ロポリこん」の非公式ファンワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1e1ebcf5-e7ff-4b08-a1f9-b6e1c7c77054",
+					"Name": "コモンセンス！ ⁄ Common Sense",
+					"RecommendedCapacity": 12,
+					"Capacity": 12,
+					"Description": "お題をもとに、参加者の回答の中央値を目指すゲームです。問題の内容によってはフレンドの意外な一面が見れるかも？（必要人数˸ 3人‚ 推奨人数˸ 5人〜‚ 最大人数˸ 12人‚ 現在の問題数計289問）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_223a361a-c16a-47ce-8183-f3e223fcd6e3",
+					"Name": "天下鳴動 ~Tenka Meidou~",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2～4人用ボードゲーム「天下鳴動」 プレイ時間：30分～1時間程 ルール説明あります",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d6e3962a-73d6-47c2-b97f-36ca5a99252d",
+					"Name": "詠み人知らず Yomibitoshirazu",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "1文字書くごとにシャッフルしてカオスな俳句を作ろう！プレイ人数4人～8人、簡単、短時間で遊べます！Made with Udon",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_df24020d-d60c-404a-b20f-51b37220ee40",
+					"Name": "［Game］ Join Wars ［JP․EN․KR․CN］",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "【JP】1-4人用カードゲーム。VRChatの「Join戦争」がテーマの競技性が高い「デッキ構築再破壊」ゲーム。【EN】1-4 players card game․ ＂Deck-building ＆ re-destructing＂ competitive card game about ＂Joining VRChat events＂․【KR】1~4인용 카드 게임․ VRChat의 「Join 전쟁」이 테마인 경쟁성이 높은 「덱 빌딩 재구성」 게임입니다․【CN】1-4人用卡牌游戏。以VRChat的「参加活动」为主题的高竞争性「牌组构筑与再破坏」游戏。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7954bf74-a725-491d-83a6-6e264f7da818",
+					"Name": "BABELǃ",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Shooting and Building PVP Gameǃ For 2-20 Players․ Support VR ⁄ Desktop ⁄ Quest․ 建築系対戦シューティングゲームです。2～20人で遊べます。VR ⁄ デスクトップ ⁄ Quest対応！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_98422193-2ddd-4af4-bd97-ab5609a46785",
+					"Name": "BOMBERio",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "- Multiplayer PvP game - Shoot bombs at each other to defeat your opponentsǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e9093447-5e69-4eec-8262-358a4ad72db9",
+					"Name": "Blackoutǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "Murderers are on the looseǃ When the lights go out‚ they'll make their moveǃ Work together to put a stop to their killing spreeǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7f2a5d7f-c4cc-4f68-b290-4a985a210a96",
+					"Name": "CODENAMES 2023［JP］",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "日本語版コードネームで遊べるワールドです。Ver1․1․0 新しいワードリスト「VRChat」を追加",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3b0014d7-b82f-4249-bfc4-64f65815c4f3",
+					"Name": "Colorful Dash -カラフルダッシュ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "色を集めるアクションゲーム。 全5ステージ＋おまけ。 Use dash to clear the stage․There are 5 stages and Extra stage․ Made with Udon․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_178fa68a-067b-4176-9cdf-84b71065eb3e",
+					"Name": "FALL WAYS",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "FALL WAYS",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bfe99640-0b12-44bd-8b25-458b4b0bf9aa",
+					"Name": "Fall Guys",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Fall Guys․ This map contains three levels in total․ Race‚ Tip-Toe‚ and Hex-a-gone․ So‚ will you fall?",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_62d9de2d-927a-4c34-95dc-af432d433f3e",
+					"Name": "Floor Smasherǃ （Game）",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "Throw the bullet to break the tiles to let other fall and be the last survivorǃ 2025․02․21 Add multi language support and make sure working with latest VRChat․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
+					"Name": "Jetski Rush",
+					"RecommendedCapacity": 12,
+					"Capacity": 16,
+					"Description": "Race with up to 16 players in a racing game inspired by your favorite kart racers through several different courses and use items to gain an advantageǃ Show them who's the fastestǃ Made by LiQua （Libes and Quap）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_93b3d0d4-dab6-4d56-b8b8-e1f6ef67a453",
+					"Name": "KEIDORO",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "悪魔VS人間の「けいどろ」ǃ 最大16名。 VR⁄ディスクトップ、Quest対応。 Devil vs human game like ＂cops and robbers＂․ Max 16 players․ VR⁄Desktop‚ Quest compatible․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1442a6bf-d510-4fc6-9958-fc1530915d94",
+					"Name": "LusterBullet",
+					"RecommendedCapacity": 30,
+					"Capacity": 40,
+					"Description": "バランス調整！⁄ǃǃ⁄Ver2․20⁄最大16人対戦⁄高速飛行＆二丁拳銃PvP「ラスターバレット」⁄ Up to 16 players⁄high speed flight ＆ dual pistol PVP",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_21bb75ba-60b6-4640-b4ca-0473f093c4db",
+					"Name": "New Udon Bomb",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d1d2318c-5144-4902-a774-876f45c06804",
+					"Name": "Price Guess",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Guess the price of that stuffǃ Game for any number of playersǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a",
+					"Name": "Prison Escape",
+					"RecommendedCapacity": 18,
+					"Capacity": 32,
+					"Description": "Join the fight between Prisoners and Guards in this VR prisonǃ Plot your escape with friends or keep the prisoners in lineǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ff8b4a6e-4268-4783-bc16-3103067a4be6",
+					"Name": "Super VR Ball",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Race your friendsǃ Get the most melons․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_137d1eb3-0f0f-49b5-9c56-4a3848e32838",
+					"Name": "Tile Gun - Riichi Mahjong ＋ Sanma",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Riichi on kotatsus․ Includes a fully English UI‚ numbered tiles‚ assists for novice players‚ 3-player and 2-player modes‚ improved desktop controls‚ spectator view‚ and headset-friendly performance˸ no freezing when you drawǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3c3ccab6-8a26-44ef-979f-af8037ebd7a2",
+					"Name": "VERTEX˸ VRCBattleRoyale",
+					"RecommendedCapacity": 36,
+					"Capacity": 72,
+					"Description": "3人1チーム、最大18人で戦うVRバトロワFPSゲーム！ ⁄ VR Battle Royale FPS Gameǃ Teams of 3 players battle in up to 6 teams of 18 players․ --- 2025-04-14 v1․2․2 ＃VERTEXVRC",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5a528c03-01f5-4399-8f0d-cbcc5c305a57",
+					"Name": "VRWare",
+					"RecommendedCapacity": 30,
+					"Capacity": 80,
+					"Description": "Challenge your friends to a series of fast-paced minigamesǃ次々と出されるミニゲームでフレンドと挑戦！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_34fe1b38-8871-447c-8a8b-e957b492881a",
+					"Name": "お絵描き人狼 Draw Wolf",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "共通のお題でお絵描きしている中、一人お題を知らないで描いている人狼を当てよう！3人～8人対応人狼ゲーム！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d0566e16-20a8-4063-8b1b-e181371f751d",
+					"Name": "［Udon］ TacticalShooter Infinitas",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "テクニックと頭脳を駆使し、勝利を掴め！SFスタイルのPvPシューティングゲームです（2-16人向け）․With your technique and tactics‚ fight and win the gameǃ A sci-fi style PvP shooter game （2-16 Players）․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9ac9ed36-adb0-491a-8757-d250f21c9bcf",
+					"Name": "Eccentric Objects",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_32bfc2f2-724e-4875-ba56-0f2a175970b6",
+					"Name": "Eccentric Rooms",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "Eccentric Rooms",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_942421ba-becf-4907-b56f-47070cc816cc",
+					"Name": "Exhibition˸ 1٪ of Virtuality",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "1％ of Virtuality （＂1％の仮想＂） is a virtual private exhibition world with the theme of Virtual Reality․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9",
+					"Name": "Gallery 2718702a",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "常設展「額縁の庇護を逃れて」",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_458eb373-50e5-4f79-a08a-a7af67e93c6f",
+					"Name": "Magic AI-Art˸ Dimensions",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "Immerse yourself in a captivating blend of art and technology․ Experience a psychedelic journey through special shaders‚ showcasing mesmerizing images crafted with the aid of artificial intelligence․ Welcome to a world that transcends the limits of traditional galleries․ Here‚ AI is not the artist but a powerful tool that enhances human creativity․ The fusion of human intuition and machine precision forms a unique symbiosis‚ amplifying the artist's vision and unlocking new dimensions of expression․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_20a3beaf-0bfb-4ead-93df-6b150296439c",
+					"Name": "Museum-of-Vrpainting",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "vr-painting",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3987e705-2587-406c-9703-4602dc400035",
+					"Name": "NISSAN Heritage Cars ＆ Safe Driving Studio",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "NISSAN Heritage Cars ＆ Safe Driving Studio",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ba30d3f3-cc4f-48ad-b9e4-fed127d41141",
+					"Name": "Near or far",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "それは本当にそこにある？⁄扉の挙動修正（23⁄08⁄24）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_29daf324-96f9-4ba3-a9ad-2a4012effeef",
+					"Name": "Solar System",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Constantly updated Solar System with accurate size ratios of planets and moons and spectacular animations․ Converted from AltspaceVR （RIP）․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1946f92a-1bcf-4947-8c4d-99d8f77a2dbb",
+					"Name": "Sushi Aquarium 海洋棟",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "魚を中心とした海洋生物を展示している水族館ワールドです。（現在展示数70種）long-potatoさんより公開されている続編ワールド「Sushi Aquarium 淡水棟」では世界各地の淡水魚を展示しております。当ワールドの最後にポータルを設置しておりますので続けてご鑑賞ください。ワールド及び魚類のモデルはlong-potatoさんと共同で制作されました。ごゆっくりお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_37c10a9d-cd69-4a76-8447-b5c916ffaa22",
+					"Name": "Sushi Aquarium 淡水棟",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "世界の淡水魚などを展示している水族館ワールドです（展示数44種類）。kaiiiiiiiiiさんから公開されている続編ワールド「Sushi Aquarium 海洋棟」では海の生き物たちを展示しています。当ワールド内最奥にあるポータルより続けてご覧ください。 このワールドの建築物および魚類のモデルはkaiiiiiiiiiさんと共同で制作されました。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a26efb21-45fb-4f63-8cf6-68a3ed68f5a4",
+					"Name": "VMoVA",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Welcome to our Exhibition【Thickness of Calligraphy】‚ available in English‚ Chinese and Japanese․ 丨 A statue for the festival has been added in the atrium․ Please have lots of creative photos hereǃ 丨 In addition‚ we also added short English translations to Chinese characters in these calligraphy works․ 丨 230913",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ecc29d21-e4c1-4a4a-ae48-46de7b7bc6b1",
+					"Name": "VR art 'New place'",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "This is gallery of tilt brush's art by artist 'Jaehyuk Lee'‚ and directing by VRC streamer GreatMoonAroma․ if you like 3d art․ enjoyǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+					"Name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "【COSMORIA˸ VR Museum of Space】English and Korean are now availableǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "Sample2",
+			"Worlds": [
+				{
+					"ID": "wrld_aa3990ff-7cd7-4ab0-be12-f91e735d7023",
+					"Name": "omochi museum",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "omochi museum˸ An exhibition of interactive user interface design experiments",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_834d75a7-f7e2-44a7-8014-a10336112115",
+					"Name": "お米がオギャるまで。",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "お米がオギャるまで長い月日がかかります！ そのオギャるまでの工程を説明させていただきます！ このワールドに来れば貴方も農家になれる！？",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_867a7613-893e-40c1-9b19-4527d74a0ff5",
+					"Name": "中国ミーム博物館 日本語版 Chinese memes museum Japanese ver",
+					"RecommendedCapacity": 70,
+					"Capacity": 70,
+					"Description": "中国コミュニティで大人気のVRChatワールド、日本語翻訳版が登場しました！ Chinese memes museum Japanese ver 中文梗博物馆日语版",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9db596b7-fa52-4f05-9a79-9c7236b713a0",
+					"Name": "現代仮想美術館",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "2－4人で一度に入館お願いします。 入館前に以下の動画を御覧ください【https˸⁄⁄youtu․be⁄zbLgIYzJLM4】 無料の当美術館ポスターは【https˸⁄⁄mera-aoki․booth․pm⁄items⁄5062190】です。自作ワールドに貼っていただけると大変うれしいです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3fa5b415-e447-4bc2-824a-b7ed450750fb",
+					"Name": "触れる仮想現実展˸リアセンス",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "沢山のご来場ありがとうございます。 これからも展示物の追加やギミックの追加・調整を行う予定です。 何か不具合や疑問点を見つけた際はなんなりとお教えください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "",
+			"Worlds": [
+				
+			]
+		},
+		{
+			"Category": "自分の所",
+			"Worlds": [
+				{
+					"ID": "wrld_39d5cd9c-90d0-4bcf-a659-d8c2d2760ef6",
+					"Name": "ワールド勉強用",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "入室ログ追加 QVPen追加 時計追加 動画プレイヤー変更 防音部屋追加",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_152bcd52-43e9-460b-8051-5ba4fd430376",
+					"Name": "Re_OceanView",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Questにも対応させたよ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7f0adf55-99cb-4c8c-8b3e-985595303423",
+					"Name": "きぷきぷ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "キプを愛でながら、好きな動画を見たり音楽を聴く、個人的ワールド",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6d56fd33-2fd9-4d5d-a2ce-e9c6c15d6aa8",
+					"Name": "Hotel House",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "実験用",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bc684a49-1ba0-4124-a47f-427087b8bed8",
+					"Name": "Gaming Hideout Night",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Gaming Hideout Night",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cd209638-6e4a-411e-b456-57fb53999dbb",
+					"Name": "LuminousHotel",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "LuminousHotel",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_62dbb2e4-bcd0-42c5-93b6-8368d28a66c3",
+					"Name": "701",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "701",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			],
+			"PermittedRoles": [
+				"HIDE"
+			]
+		},
+		{
+			"Category": "フレンドワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_c279dcfe-d781-4d9a-a1b5-e9528d30688f",
+					"Name": "R room",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "R room",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0b5f857b-8d4d-4727-888c-bd9cb8095a48",
+					"Name": "朝緋ノホーム",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			],
+			"PermittedRoles": [
+				"HIDE"
+			]
+		},
+		{
+			"Category": "CHIHAYA ちはや",
+			"Worlds": [
+				{
+					"ID": "wrld_bcf9cc6f-6e3c-4fa0-a0ff-c6a1c5645849",
+					"Name": "なでなでマッチング【PC Desktop＆VR両対応】",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "なでなでマッチング【PC Desktop＆VR両対応】 「なでたい、なでられたい」の相手を探すワールド 公式ハッシュタグ：＃なでなでマッチング",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_12306749-b63f-439a-8873-921546d3b9bc",
+					"Name": "Shangri-La 2 Public",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "To all my Partons‚ thank you for supporting meǃ https˸⁄⁄shangri-la․fanbox․cc⁄",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_016072bc-dda2-4d62-bb71-3101eebd3e55",
+					"Name": "首輪でお散歩 Collar Kubiwa",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "首輪でお散歩 Collar Kubiwa",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "MMD",
+			"Worlds": [
+				{
+					"ID": "wrld_bd913cd0-09d3-447a-81ef-2b52f59f5816",
+					"Name": "mmd房测试",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "mmd房测试",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_785739d0-146a-4e0a-ab40-1b9a8230de6d",
+					"Name": "YH MMD WORLD中秋特别版",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "欢迎来到ＹHMMD中秋特别地图，该地图开放7天，延长至22日，希望大家玩的愉快。最后祝大家中秋节快乐！ 最后特别感谢春蕾不觉晓提供的场景",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_25d80efd-6121-461b-96b2-3dc99cbfc51c",
+					"Name": "LiveHouse_MMD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "不定时更新\nNSFW: 17189",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9dfca5db-495a-482b-9be9-1fed3e039e0e",
+					"Name": "MMD Club for Gentlemen",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "World under constructionǃ Alpha versionǃ\nPublic: R18\nPatreon: 5736",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_321ba7aa-53f8-4b39-b31e-df4e4470b3ff",
+					"Name": "私密空间",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "私密空间",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2a6343f6-0d94-4843-83cb-bd68460ffefa",
+					"Name": "Erotic Dance",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Erotic Dance",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c",
+					"Name": "Room for dancing",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "This room cannot be a public room․ Let's enjoy it only with gentleman friends on PC․ If you can add me as a friend‚ we can do various thingsǃ If you would like to use this for private or group use‚ please try the following worldID＝wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c このお部屋は事情があってパブリックルームにはできません。紳士のお友達はPCかPC-VRで遊んでね。もし私をフレンドにしてくれたら、一緒に遊んだり、新しいコンテンツ開発に協力してもらったりしちゃいます。また、もしプライベートやグループでこの部屋を使いたい場合は以下のworldIDからお試しください。worldId＝wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c\nPASS 0831",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a76d2ddb-7ce3-4150-b9eb-4b33917fd130",
+					"Name": "GiGi's MMD ＆ Chill",
+					"RecommendedCapacity": 10,
+					"Capacity": 32,
+					"Description": "Early Access⁄Testing․ V․I․P․ access now in BETA‚‚‚MMD‚ NPCS‚ Games‚ Video player‚ Toys and more․ Localized for 15 languages․\nVIP: 8675\nLead Dancers: 4329\nBackup Dancers: 7615",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			],
+			"PermittedRoles": [
+				"HIDE"
+			]
+		},
+		{
+			"Category": "Coco_Mo",
+			"Worlds": [
+				{
+					"ID": "wrld_334e42cf-6374-4a2b-bd38-174b72c2e232",
+					"Name": "【VRMV】Who Killed U․N․Owen",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "おててをくるくる、ふってみて。 きらきらお羽根を揺らしたならば、にこっと笑って、手をのばす。 あなたも一緒に、踊りましょ？",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bddf8055-7d86-47c9-9987-bf5f78c35a0d",
+					"Name": "【VRMV】Sweets Time Midnight",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "一つしか知らない 歌を歌ってみるの",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7291b8c8-c3a7-4543-a801-990fffbee90a",
+					"Name": "【VRMV】One Room‚ All That Jazz ǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "好きなものを好きなだけ 駄目なものは駄目なりに",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a395bb2c-dbb6-408b-b288-e9b06485b82b",
+					"Name": "［VRMV］あなたしか見えないの",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "目も当てられないわ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5b4de235-ee14-4f52-87e1-1c7e6e6f36bd",
+					"Name": "【VRMV】東方セレブ ～ABUNAI SISTERS～（Short版）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "あのね、今回のプランはね",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4847dfc2-6720-45af-a594-d106526cfe0c",
+					"Name": "【VRMV】匙ノ咒",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "烏がわらっていました",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8d9d0556-88ed-41f3-8703-de8d6bc6e013",
+					"Name": "【VRMV】蜜月アン・ドゥ・トロワ ⁄ Honey Moon Un Deux Trois",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "11作目 蜂蜜酒を貴方に",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a46ec9eb-0e55-4b85-8a8c-aeeff2c1e974",
+					"Name": "［VRMV］Catchy ǃ?",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "揺れる四番線",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_440f9450-34db-4509-abef-0a769279e98b",
+					"Name": "【VRMV】あけたらしめろよ星人",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "13作目 こんなに何度も言われれば覚えるはずなのに！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f473bdea-ef31-4794-8a95-664ff04c193c",
+					"Name": "【VRMV】無意識レクイエム",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "14作目",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1f522eeb-a6c4-45af-96c3-6c647fdf82e9",
+					"Name": "【VRMV】Pavlovian Love",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "15作目",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cf6ab04f-412f-4b9f-9ef1-6470afe5fc60",
+					"Name": "",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "16作目 いますぐ輪廻",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		}
+	],
+	"Roles": [
+		{
+			"RoleName": "HIDE",
+			"DisplayNames": [
+				"流浪の旅人",
+				"みじんこ_VR"
+			]
+		}
+	]
+}
