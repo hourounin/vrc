@@ -1,6 +1,6 @@
 {
 	"ReverseCategorys": false,
-	"ShowPrivateWorld": false,
+	"ShowPrivateWorld": true,
 	"Categorys": [
 		{
 			"Category": "有名",
