@@ -1496,7 +1496,33 @@
 						"Android": false,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_a2e5328c-a1be-4482-829e-99b1db8c0483",
+					"Name": "おむつ工房・ギャラリー",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "作業に適した工房とギャラリーを兼ねています ゆっくりしていってね！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_02292a19-3c2e-4e29-8573-5b9d2ea9e16e",
+					"Name": "My Homeǃǃ Re_ocean view",
+					"RecommendedCapacity": 6,
+					"Capacity": 6,
+					"Description": "WA GA YA ǃǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
 				}
 			],
 			"PermittedRoles": [
@@ -1673,7 +1699,7 @@
 						"Android": false,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_bddf8055-7d86-47c9-9987-bf5f78c35a0d",
@@ -1686,7 +1712,7 @@
 						"Android": false,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_7291b8c8-c3a7-4543-a801-990fffbee90a",
@@ -1699,7 +1725,7 @@
 						"Android": false,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_a395bb2c-dbb6-408b-b288-e9b06485b82b",
@@ -1712,7 +1738,7 @@
 						"Android": false,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_5b4de235-ee14-4f52-87e1-1c7e6e6f36bd",
@@ -1725,7 +1751,7 @@
 						"Android": false,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_4847dfc2-6720-45af-a594-d106526cfe0c",
@@ -1738,7 +1764,7 @@
 						"Android": false,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_8d9d0556-88ed-41f3-8703-de8d6bc6e013",
@@ -1764,7 +1790,7 @@
 						"Android": false,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_440f9450-34db-4509-abef-0a769279e98b",
@@ -1784,7 +1810,7 @@
 					"Name": "【VRMV】無意識レクイエム",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "14作目",
+					"Description": "14作目 わたしのこと、気づいてくれた？",
 					"Platform": {
 						"PC": true,
 						"Android": false,
@@ -1797,7 +1823,7 @@
 					"Name": "【VRMV】Pavlovian Love",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "15作目",
+					"Description": "15作目 ただ無垢な還元主義",
 					"Platform": {
 						"PC": true,
 						"Android": false,
@@ -1811,6 +1837,19 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "16作目 いますぐ輪廻",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0eee8678-4110-4b3c-8034-2d100877ec5f",
+					"Name": "【VRMV】回る空うさぎ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "17作目",
 					"Platform": {
 						"PC": true,
 						"Android": false,
