@@ -1384,7 +1384,7 @@
 						"Android": false,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_152bcd52-43e9-460b-8051-5ba4fd430376",
@@ -1397,7 +1397,7 @@
 						"Android": true,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_7f0adf55-99cb-4c8c-8b3e-985595303423",
@@ -1410,7 +1410,7 @@
 						"Android": true,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_6d56fd33-2fd9-4d5d-a2ce-e9c6c15d6aa8",
@@ -1423,7 +1423,7 @@
 						"Android": false,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_bc684a49-1ba0-4124-a47f-427087b8bed8",
@@ -1436,7 +1436,7 @@
 						"Android": false,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_cd209638-6e4a-411e-b456-57fb53999dbb",
@@ -1449,7 +1449,7 @@
 						"Android": true,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_62dbb2e4-bcd0-42c5-93b6-8368d28a66c3",
@@ -1462,7 +1462,20 @@
 						"Android": true,
 						"iOS": false
 					},
-					"ReleaseStatus": "public"
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_1625f5ff-eb88-4f2a-82ca-efdbdf03d870",
+					"Name": "TEST",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "TEST",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
 				}
 			],
 			"PermittedRoles": [
