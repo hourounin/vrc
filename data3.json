@@ -1465,14 +1465,35 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "",
+					"Name": "",
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": "",
+					"ReleaseStatus": "public"
+				},
+				{
 					"ID": "wrld_715834fb-f3d3-46ff-9a7d-c48444b4575c",
-					"Name": "TEST",
+					"Name": "701",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "TEST",
 					"Platform": {
 						"PC": true,
-						"Android": false,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_abe63dfd-defb-4da0-8bf2-1e6739bd5dc9",
+					"Name": "テスト",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "テスト",
+					"Platform": {
+						"PC": true,
+						"Android": true,
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
