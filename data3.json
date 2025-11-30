@@ -1771,6 +1771,19 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_03174a1d-af05-4e39-b300-75d2d88e19d0",
+					"Name": "Gaming Hideout Day",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Gaming Hideout Day",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "wrld_bc684a49-1ba0-4124-a47f-427087b8bed8",
 					"Name": "Gaming Hideout Night",
 					"RecommendedCapacity": 16,
