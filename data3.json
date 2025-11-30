@@ -2071,6 +2071,19 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_3910e363-a09f-4a18-bff4-a2e7b8e0763d",
+					"Name": "放課後イータイム",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "After School E-TIME",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
 				}
 			],
 			"PermittedRoles": [
