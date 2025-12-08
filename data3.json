@@ -183,6 +183,32 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0bbac6e6-5c80-40c2-80dd-273e960ea814",
+					"Name": "（WIP） Memena's Lord Arena",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "This is a game world that refers like FF14 and TON․ Combine your skills‚ hone your techniques‚ defeat the BOSS and get rewards․ Find your comrades‚ form a raiding party‚ and gain reputation․ Aim to defeat the final bossǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_1f6528d5-38fb-4692-8744-18e21c6aefa7",
+					"Name": "［Udon］ Boss Battle",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "強大な力を持つボスと、それに立ち向かう冒険者の戦いが、今始まる。 ボスは、あなた自身だ。 ド派手な魔法で戦うPvPゲームです。 MMOのレイドボスのような必殺技を、VRで体験できます。 様々なオプションも用意しましたので、写真撮影にもどうぞ。 気に入っていただけましたら、 ＃VRC_BossBattle でツイートして頂けると嬉しいです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
 				}
 			]
 		},
