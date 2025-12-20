@@ -379,6 +379,24 @@
 			]
 		},
 		{
+			"Category": "ゲームワールド β",
+			"Worlds": [
+				{
+					"ID": "wrld_8040fe3a-2861-46be-83ea-867f5c0e047f",
+					"Name": "closed beta test˸ OPERATION BLACKPOINT",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "Closed Beta Test‚ invite ~ Friend＋ ⁄ Group＋ ONLY Instance",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				}
+			]
+		},
+		{
 			"Category": "ドライブ",
 			"Worlds": [
 				{
