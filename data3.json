@@ -916,19 +916,6 @@
 					"ReleaseStatus": "public"
 				},
 				{
-					"ID": "wrld_bf007a2f-3884-4261-aeb1-4ef081c6069e",
-					"Name": "Opera Epiclese",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "Opera Epiclese",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "public"
-				},
-				{
 					"ID": "wrld_85225af2-d48d-49f4-a817-fc8b641248a8",
 					"Name": "Nero's MMD world VIP",
 					"RecommendedCapacity": 16,
@@ -2031,19 +2018,6 @@
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_25d80efd-6121-461b-96b2-3dc99cbfc51c",
-					"Name": "LiveHouse_MMD",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "不定时更新",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
 					"ID": "wrld_9dfca5db-495a-482b-9be9-1fed3e039e0e",
 					"Name": "MMD Club for Gentlemen",
 					"RecommendedCapacity": 16,
@@ -2055,19 +2029,6 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "public"
-				},
-				{
-					"ID": "wrld_321ba7aa-53f8-4b39-b31e-df4e4470b3ff",
-					"Name": "私密空间",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "私密空间",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c",
@@ -2101,8 +2062,47 @@
 			]
 		},
 		{
-			"Category": "NSFW",
+			"Category": "煎餅菓子",
 			"Worlds": [
+				{
+					"ID": "wrld_bf007a2f-3884-4261-aeb1-4ef081c6069e",
+					"Name": "Opera Epiclese",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Opera Epiclese",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_25d80efd-6121-461b-96b2-3dc99cbfc51c",
+					"Name": "LiveHouse_MMD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "不定时更新",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_321ba7aa-53f8-4b39-b31e-df4e4470b3ff",
+					"Name": "私密空间",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "私密空间",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
 				{
 					"ID": "wrld_2a6343f6-0d94-4843-83cb-bd68460ffefa",
 					"Name": "Just H Dance",
