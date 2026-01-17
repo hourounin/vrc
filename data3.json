@@ -1888,11 +1888,11 @@
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_03469104-3300-4343-8d7e-c28bf4f7c0ff",
-					"Name": "Fragment flow",
+					"ID": "wrld_78f6f229-5b9b-4d18-b715-de2fd4a260f5",
+					"Name": "Fragment flow Multi",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "Fragment flow",
+					"Description": "Fragment flow Multi",
 					"Platform": {
 						"PC": true,
 						"Android": true,
