@@ -1901,6 +1901,19 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_141a3166-f963-4a93-82da-7b6504fca0ea",
+					"Name": "AbstractCoast",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "AbstractCoast",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "wrld_a9c55fa6-5296-4ac3-8900-6226400e5e3c",
 					"Name": "庭付き古民家",
 					"RecommendedCapacity": 16,
