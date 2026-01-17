@@ -941,7 +941,7 @@
 					"Name": "MMD Club for Gentlemen",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "World under constructionǃ Alpha versionǃ",
+					"Description": "World under constructionǃ Alpha versionǃ\nPW R18",
 					"Platform": {
 						"PC": true,
 						"Android": false,
@@ -954,7 +954,7 @@
 					"Name": "GiGi's MMD ＆ Chill",
 					"RecommendedCapacity": 10,
 					"Capacity": 32,
-					"Description": "Early Access⁄Testing․ V․I․P․ access now in BETA‚‚‚ NPC Dancers‚ VIP-NPCS‚ Games‚ Video player‚ Toys and more․ Localized for 15 languages․",
+					"Description": "Early Access⁄Testing․ V․I․P․ access now in BETA‚‚‚ NPC Dancers‚ VIP-NPCS‚ Games‚ Video player‚ Toys and more․ Localized for 15 languages․\nVIP: 23715\nLead Dancers: 4380",
 					"Platform": {
 						"PC": true,
 						"Android": false,
@@ -1901,6 +1901,19 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_a9c55fa6-5296-4ac3-8900-6226400e5e3c",
+					"Name": "庭付き古民家",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "庭付き古民家",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "wrld_715834fb-f3d3-46ff-9a7d-c48444b4575c",
 					"Name": "701",
 					"RecommendedCapacity": 16,
@@ -2025,7 +2038,7 @@
 					"Name": "Room for dancing",
 					"RecommendedCapacity": 16,
 					"Capacity": 16,
-					"Description": "This room cannot be a public room․ Let's enjoy it only with gentleman friends on PC․ If you can add me as a friend‚ we can do various thingsǃ If you would like to use this for private or group use‚ please try the following worldID＝wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c このお部屋は事情があってパブリックルームにはできません。紳士のお友達はPCかPC-VRで遊んでね。もし私をフレンドにしてくれたら、一緒に遊んだり、新しいコンテンツ開発に協力してもらったりしちゃいます。また、もしプライベートやグループでこの部屋を使いたい場合は以下のworldIDからお試しください。worldId＝wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c",
+					"Description": "This room cannot be a public room․ Let's enjoy it only with gentleman friends on PC․ If you can add me as a friend‚ we can do various thingsǃ If you would like to use this for private or group use‚ please try the following worldID＝wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c このお部屋は事情があってパブリックルームにはできません。紳士のお友達はPCかPC-VRで遊んでね。もし私をフレンドにしてくれたら、一緒に遊んだり、新しいコンテンツ開発に協力してもらったりしちゃいます。また、もしプライベートやグループでこの部屋を使いたい場合は以下のworldIDからお試しください。worldId＝wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c\nPW 0831",
 					"Platform": {
 						"PC": true,
 						"Android": false,
@@ -2060,6 +2073,19 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "不定时更新",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_0e764432-9f34-439b-ab9b-8726f9f9eb45",
+					"Name": "Samurai Apartment",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Samauri Apartment",
 					"Platform": {
 						"PC": true,
 						"Android": false,
