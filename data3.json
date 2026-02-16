@@ -68,6 +68,19 @@
 			"Category": "ゲームワールド",
 			"Worlds": [
 				{
+					"ID": "wrld_0bbac6e6-5c80-40c2-80dd-273e960ea814",
+					"Name": "MELA - Memena's Lord Arena",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "This is a game world that refers like FF14 and TON․ Combine your skills‚ hone your techniques‚ defeat the BOSS and get rewards․ Find your comrades‚ form a raiding party‚ and gain reputation․ Aim to defeat the final bossǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
 					"ID": "wrld_262729a1-1eca-4f4a-b9ed-d00ffa663d6b",
 					"Name": "WORLD OF THE SOUL",
 					"RecommendedCapacity": 6,
@@ -183,19 +196,6 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "public"
-				},
-				{
-					"ID": "wrld_0bbac6e6-5c80-40c2-80dd-273e960ea814",
-					"Name": "（WIP） Memena's Lord Arena",
-					"RecommendedCapacity": 16,
-					"Capacity": 16,
-					"Description": "This is a game world that refers like FF14 and TON․ Combine your skills‚ hone your techniques‚ defeat the BOSS and get rewards․ Find your comrades‚ form a raiding party‚ and gain reputation․ Aim to defeat the final bossǃ",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_1f6528d5-38fb-4692-8744-18e21c6aefa7",
@@ -2024,6 +2024,19 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_c24c3416-7261-4f31-875c-99f4f80f20db",
+					"Name": "test home",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "test",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
 				}
 			],
 			"PermittedRoles": [
@@ -2167,6 +2180,19 @@
 					"Platform": {
 						"PC": true,
 						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_6bb3dfef-cf0f-488c-8d27-b8dccc637666",
+					"Name": "Succubus Capsule Hotel",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "Succubus Capsule Hotel",
+					"Platform": {
+						"PC": true,
+						"Android": true,
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
@@ -2443,6 +2469,32 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bb25a99b-1bad-4d50-87ed-9406f7f95038",
+					"Name": "【VRMV】ユメミ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "抜け出してさ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_aebda850-94d0-4093-9f5c-d953916b29c2",
+					"Name": "【VRMV】アポロ Ingen RemiX",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "20作目 涸れるまで歌って",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
 				}
 			]
 		}
