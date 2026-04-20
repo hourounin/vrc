@@ -2503,6 +2503,14 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_cdd345cf-f552-4780-bc4f-79fa6e58b078",
+					"Name": "【VRMV】脳漿炸裂ガール",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "もち",
+					"ReleaseStatus": "private"
 				}
 			]
 		}
