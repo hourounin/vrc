@@ -393,6 +393,14 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_9a835b03-886e-4ab6-8942-c2276a2935e8",
+					"Name": "KASSEN",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "KASSEN",
+					"ReleaseStatus": "private"
 				}
 			]
 		},
