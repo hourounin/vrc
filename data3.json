@@ -382,19 +382,6 @@
 			"Category": "ゲームワールド β",
 			"Worlds": [
 				{
-					"ID": "wrld_8040fe3a-2861-46be-83ea-867f5c0e047f",
-					"Name": "closed beta test˸ OPERATION BLACKPOINT",
-					"RecommendedCapacity": 16,
-					"Capacity": 16,
-					"Description": "Closed Beta Test‚ invite ~ Friend＋ ⁄ Group＋ ONLY Instance",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
 					"ID": "wrld_9a835b03-886e-4ab6-8942-c2276a2935e8",
 					"Name": "KASSEN",
 					"RecommendedCapacity": 16,
@@ -2102,30 +2089,12 @@
 			"Category": "煎餅菓子",
 			"Worlds": [
 				{
-					"ID": "wrld_bf007a2f-3884-4261-aeb1-4ef081c6069e",
-					"Name": "Opera Epiclese",
+					"ID": "wrld_f721fc33-41be-4563-b54f-190c953a8281",
+					"Name": "病名は愛だった",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "Opera Epiclese",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
+					"Description": "届かない恋",
 					"ReleaseStatus": "public"
-				},
-				{
-					"ID": "wrld_4a9dc11d-6e0c-4bb3-9652-04d02c878857",
-					"Name": "Imaginarium Theater",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "test",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_25d80efd-6121-461b-96b2-3dc99cbfc51c",
@@ -2141,55 +2110,40 @@
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_0e764432-9f34-439b-ab9b-8726f9f9eb45",
-					"Name": "Samurai Apartment",
+					"ID": "wrld_bf007a2f-3884-4261-aeb1-4ef081c6069e",
+					"Name": "Opera Epiclese",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "Samauri Apartment",
+					"Description": "Opera Epiclese",
 					"Platform": {
 						"PC": true,
 						"Android": false,
 						"iOS": false
 					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5296ec91-6a03-4bbc-ab54-dd8b1062fbe1",
+					"Name": "放课后E-TIME",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "放课后E-TIME",
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_321ba7aa-53f8-4b39-b31e-df4e4470b3ff",
-					"Name": "私密空间",
+					"ID": "wrld_4d91151d-47da-476f-9144-8bf0ff991fb9",
+					"Name": "秘密の空間",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "私密空间",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
+					"Description": "秘密の空間",
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_2a6343f6-0d94-4843-83cb-bd68460ffefa",
-					"Name": "Just H Dance",
+					"ID": "wrld_7aae327b-aef3-44a9-84e2-1b2ac97b98ce",
+					"Name": "JHD",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "Just H Dance",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_3910e363-a09f-4a18-bff4-a2e7b8e0763d",
-					"Name": "放課後イータイム",
-					"RecommendedCapacity": 32,
-					"Capacity": 64,
-					"Description": "After School E-TIME",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
+					"Description": "JHD",
 					"ReleaseStatus": "private"
 				},
 				{
@@ -2510,6 +2464,14 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "もち",
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_79d0007d-60c0-40d1-b1c7-0a3bb3a5bad0",
+					"Name": "うぇーい",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "うぇーい",
 					"ReleaseStatus": "private"
 				}
 			]
