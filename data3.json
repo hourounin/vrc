@@ -1074,24 +1074,6 @@
 			]
 		},
 		{
-			"Category": "アバター",
-			"Worlds": [
-				{
-					"ID": "wrld_5ef1f09c-a4dc-4fef-8cc1-45d9b82dbe00",
-					"Name": "上原邸 Uehara Residence",
-					"RecommendedCapacity": 64,
-					"Capacity": 64,
-					"Description": "アバター保管庫です。2025-03-19アバター投稿フォームを開設しました。⁄ Avatar storage․ 19 Mar 2025 Avatar Submission Form is now open․ https˸⁄⁄forms․gle⁄CumCuoRuC1RcVxnC7",
-					"Platform": {
-						"PC": true,
-						"Android": true,
-						"iOS": false
-					},
-					"ReleaseStatus": "public"
-				}
-			]
-		},
-		{
 			"Category": "アングラ",
 			"Worlds": [
 				{
