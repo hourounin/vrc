@@ -1940,6 +1940,11 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "DreamyPurpleRE",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				},
 				{
@@ -1997,7 +2002,7 @@
 					"Description": "。",
 					"Platform": {
 						"PC": true,
-						"Android": false,
+						"Android": true,
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
@@ -2023,7 +2028,7 @@
 					"Description": "WA GA YA ǃǃ",
 					"Platform": {
 						"PC": true,
-						"Android": false,
+						"Android": true,
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
@@ -2082,19 +2087,6 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c",
-					"Name": "Room for dancing",
-					"RecommendedCapacity": 16,
-					"Capacity": 16,
-					"Description": "This room cannot be a public room․ Let's enjoy it only with gentleman friends on PC․ If you can add me as a friend‚ we can do various thingsǃ If you would like to use this for private or group use‚ please try the following worldID＝wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c このお部屋は事情があってパブリックルームにはできません。紳士のお友達はPCかPC-VRで遊んでね。もし私をフレンドにしてくれたら、一緒に遊んだり、新しいコンテンツ開発に協力してもらったりしちゃいます。また、もしプライベートやグループでこの部屋を使いたい場合は以下のworldIDからお試しください。worldId＝wrld_9594b646-ef5a-4e71-8bfa-87eed337c48c\nPW 0831",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
 				}
 			],
 			"PermittedRoles": [
@@ -2126,19 +2118,6 @@
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_bf007a2f-3884-4261-aeb1-4ef081c6069e",
-					"Name": "Opera Epiclese",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "Opera Epiclese",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "public"
-				},
-				{
 					"ID": "wrld_5296ec91-6a03-4bbc-ab54-dd8b1062fbe1",
 					"Name": "放课后E-TIME",
 					"RecommendedCapacity": 16,
@@ -2160,19 +2139,6 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "JHD",
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_6bb3dfef-cf0f-488c-8d27-b8dccc637666",
-					"Name": "Succubus Capsule Hotel",
-					"RecommendedCapacity": 25,
-					"Capacity": 50,
-					"Description": "Succubus Capsule Hotel",
-					"Platform": {
-						"PC": true,
-						"Android": true,
-						"iOS": false
-					},
 					"ReleaseStatus": "private"
 				}
 			],
@@ -2223,32 +2189,6 @@
 					"ReleaseStatus": "public"
 				},
 				{
-					"ID": "wrld_12306749-b63f-439a-8873-921546d3b9bc",
-					"Name": "Shangri-La 2 Public",
-					"RecommendedCapacity": 30,
-					"Capacity": 30,
-					"Description": "To all my Partons‚ thank you for supporting meǃ https˸⁄⁄shangri-la․fanbox․cc⁄",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "public"
-				},
-				{
-					"ID": "wrld_19c91eaa-37dd-4f8c-86de-5da83e8c976e",
-					"Name": "Shangri-La Public DPS inside",
-					"RecommendedCapacity": 33,
-					"Capacity": 66,
-					"Description": "To all my Partons‚ thank you for supporting meǃ https˸⁄⁄shangri-la․fanbox․cc⁄",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
 					"ID": "wrld_35a50cc8-85c8-4842-9323-494355327d09",
 					"Name": "DPS TEST ROOM",
 					"RecommendedCapacity": 20,
@@ -2280,76 +2220,11 @@
 			"Category": "Coco_Mo",
 			"Worlds": [
 				{
-					"ID": "wrld_334e42cf-6374-4a2b-bd38-174b72c2e232",
-					"Name": "【VRMV】Who Killed U․N․Owen",
-					"RecommendedCapacity": 32,
-					"Capacity": 32,
-					"Description": "おててをくるくる、ふってみて。 きらきらお羽根を揺らしたならば、にこっと笑って、手をのばす。 あなたも一緒に、踊りましょ？",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_bddf8055-7d86-47c9-9987-bf5f78c35a0d",
-					"Name": "【VRMV】Sweets Time Midnight",
-					"RecommendedCapacity": 10,
-					"Capacity": 10,
-					"Description": "一つしか知らない 歌を歌ってみるの",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_7291b8c8-c3a7-4543-a801-990fffbee90a",
-					"Name": "【VRMV】One Room‚ All That Jazz ǃ",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "好きなものを好きなだけ 駄目なものは駄目なりに",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
 					"ID": "wrld_a395bb2c-dbb6-408b-b288-e9b06485b82b",
 					"Name": "［VRMV］あなたしか見えないの",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "目も当てられないわ",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_5b4de235-ee14-4f52-87e1-1c7e6e6f36bd",
-					"Name": "【VRMV】東方セレブ ～ABUNAI SISTERS～（Short版）",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "あのね、今回のプランはね",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_4847dfc2-6720-45af-a594-d106526cfe0c",
-					"Name": "【VRMV】匙ノ咒",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "烏がわらっていました",
 					"Platform": {
 						"PC": true,
 						"Android": false,
@@ -2369,19 +2244,6 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "public"
-				},
-				{
-					"ID": "wrld_a46ec9eb-0e55-4b85-8a8c-aeeff2c1e974",
-					"Name": "［VRMV］Catchy ǃ?",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "揺れる四番線",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_440f9450-34db-4509-abef-0a769279e98b",
@@ -2447,48 +2309,6 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "public"
-				},
-				{
-					"ID": "wrld_bb25a99b-1bad-4d50-87ed-9406f7f95038",
-					"Name": "【VRMV】ユメミ",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "抜け出してさ",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_aebda850-94d0-4093-9f5c-d953916b29c2",
-					"Name": "【VRMV】アポロ Ingen RemiX",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "20作目 涸れるまで歌って",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_cdd345cf-f552-4780-bc4f-79fa6e58b078",
-					"Name": "【VRMV】脳漿炸裂ガール",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "もち",
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_79d0007d-60c0-40d1-b1c7-0a3bb3a5bad0",
-					"Name": "うぇーい",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "うぇーい",
-					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_35f4b956-080b-459f-84af-a5a430656356",
