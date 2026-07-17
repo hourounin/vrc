@@ -1007,19 +1007,6 @@
 			"Category": "路上ライブ",
 			"Worlds": [
 				{
-					"ID": "wrld_9ba9fd77-31c7-432a-bcb4-8983bec75ef8",
-					"Name": "FirstNoteStation-始発駅-EastGate",
-					"RecommendedCapacity": 60,
-					"Capacity": 80,
-					"Description": "街中の駅をモチーフにしたストリートライブのためのワールドになります。駅前広場や公園の中、人通りの少ない裏通りなどでTopazChatを利用したストリートライブを行う事が出来ます。公式グループもありますので、グループ内で演奏の告知などもして頂けます。ぜひお気軽にご利用ください。マルチプラットフォーム対応した-WestGate-もあります。グループID VRFNS․0178 公式ハッシュタグ ＃VRFNS",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "public"
-				},
-				{
 					"ID": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
 					"Name": "新宿ライブストリート ⁄ Shinjuku Live Street",
 					"RecommendedCapacity": 80,
@@ -1028,6 +1015,19 @@
 					"Platform": {
 						"PC": true,
 						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9ba9fd77-31c7-432a-bcb4-8983bec75ef8",
+					"Name": "FirstNoteStation-始発駅-EastGate",
+					"RecommendedCapacity": 60,
+					"Capacity": 80,
+					"Description": "街中の駅をモチーフにしたストリートライブのためのワールドになります。駅前広場や公園の中、人通りの少ない裏通りなどでTopazChatを利用したストリートライブを行う事が出来ます。公式グループもありますので、グループ内で演奏の告知などもして頂けます。ぜひお気軽にご利用ください。マルチプラットフォーム対応した-WestGate-もあります。グループID VRFNS․0178 公式ハッシュタグ ＃VRFNS",
+					"Platform": {
+						"PC": true,
+						"Android": false,
 						"iOS": false
 					},
 					"ReleaseStatus": "public"
@@ -2070,6 +2070,11 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "よなぎ home",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				}
 			],
