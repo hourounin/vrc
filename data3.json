@@ -107,6 +107,19 @@
 					"ReleaseStatus": "public"
 				},
 				{
+					"ID": "wrld_9a835b03-886e-4ab6-8942-c2276a2935e8",
+					"Name": "KASSEN",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "仲間と協力して敵を倒し、城を攻略しよう！ 映画「超かぐや姫！」に登場するゲームの再現ワールドです。 本ワールドは、超かぐや姫！のコミュニティガイドライン発表以前に制作されています。 A recreated game of KASSEN from the movie ＂Cosmic Princess Kaguyaǃ＂․ This world was created before the official community guidelines of ＂Cosmic Princess Kaguyaǃ＂",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
 					"ID": "wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d",
 					"Name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム",
 					"RecommendedCapacity": 10,
@@ -2339,6 +2352,11 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "24",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				},
 				{
@@ -2347,6 +2365,11 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				}
 			]
