@@ -2120,6 +2120,11 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "届かない恋",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
 					"ReleaseStatus": "public"
 				},
 				{
@@ -2141,6 +2146,11 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "放课后E-TIME",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				},
 				{
@@ -2149,6 +2159,11 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "秘密の空間",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				},
 				{
@@ -2157,6 +2172,11 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "JHD",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				}
 			],
