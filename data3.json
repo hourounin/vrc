@@ -1783,12 +1783,6 @@
 			]
 		},
 		{
-			"Category": "",
-			"Worlds": [
-				
-			]
-		},
-		{
 			"Category": "自分の所",
 			"Worlds": [
 				{
@@ -1829,6 +1823,14 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "",
+					"Name": "******************",
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": "",
+					"ReleaseStatus": "public"
 				},
 				{
 					"ID": "wrld_6d56fd33-2fd9-4d5d-a2ce-e9c6c15d6aa8",
@@ -1909,6 +1911,27 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_5b1632b7-5edd-48b8-8df7-9846545db822",
+					"Name": "DreamyPurpleRE",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "DreamyPurpleRE",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "",
+					"Name": "******************",
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": "",
+					"ReleaseStatus": "public"
+				},
+				{
 					"ID": "wrld_141a3166-f963-4a93-82da-7b6504fca0ea",
 					"Name": "AbstractCoast",
 					"RecommendedCapacity": 16,
@@ -1935,17 +1958,12 @@
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_5b1632b7-5edd-48b8-8df7-9846545db822",
-					"Name": "DreamyPurpleRE",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "DreamyPurpleRE",
-					"Platform": {
-						"PC": true,
-						"Android": true,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
+					"ID": "",
+					"Name": "******************",
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": "",
+					"ReleaseStatus": "public"
 				},
 				{
 					"ID": "wrld_715834fb-f3d3-46ff-9a7d-c48444b4575c",
