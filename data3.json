@@ -382,11 +382,11 @@
 			"Category": "ゲームワールド β",
 			"Worlds": [
 				{
-					"ID": "wrld_9a835b03-886e-4ab6-8942-c2276a2935e8",
-					"Name": "KASSEN",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "KASSEN",
+					"ID": "wrld_0fb88df3-2057-4c2f-8e06-e948864378fd",
+					"Name": "Ecliptica - Demo Playtest",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "v0․5 （Early Demo Playtest for www․patreon․com⁄Mantibro） Co-op Roguelite Arena Fighter Action RPG",
 					"ReleaseStatus": "private"
 				}
 			]
@@ -1935,6 +1935,14 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_5b1632b7-5edd-48b8-8df7-9846545db822",
+					"Name": "DreamyPurpleRE",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "DreamyPurpleRE",
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "wrld_715834fb-f3d3-46ff-9a7d-c48444b4575c",
 					"Name": "701",
 					"RecommendedCapacity": 16,
@@ -2031,6 +2039,14 @@
 						"Android": false,
 						"iOS": false
 					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_35e8179e-c987-4cf3-b622-ec699b2148ac",
+					"Name": "よなぎ home",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "よなぎ home",
 					"ReleaseStatus": "private"
 				}
 			],
@@ -2472,6 +2488,22 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "うぇーい",
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_35f4b956-080b-459f-84af-a5a430656356",
+					"Name": "【VRMV】カラバコにアイ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "24",
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_8d3dc8f5-c607-4a15-96c4-a9d41df7fd76",
+					"Name": "【VRMV】月のワルツ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
 					"ReleaseStatus": "private"
 				}
 			]
