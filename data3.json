@@ -11,11 +11,6 @@
 					"RecommendedCapacity": 40,
 					"Capacity": 40,
 					"Description": "ぽこピーランドへようこそ！ 『甲賀流忍者ぽんぽこ』と『オシャレになりたい！ピーナッツくん』の２匹組『ぽこピー』による夢のテーマパークです！！POKOPEA's Dream Theme Park offers an unforgettable mix of horror and fun with roller coasters and attractions by popular Japanese Vtuber POKOPEAǃ",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
 					"ReleaseStatus": "public"
 				}
 			]
@@ -29,11 +24,6 @@
 					"RecommendedCapacity": 25,
 					"Capacity": 50,
 					"Description": "【COSMORIA˸ VR Museum of Space】［EN ⁄ JP ⁄ KR ⁄ zh-CN ⁄ zh-TW］",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
 					"ReleaseStatus": "public"
 				},
 				{
@@ -42,11 +32,6 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "This is gallery of tilt brush's art by artist 'Jaehyuk Lee'‚ and directing by VRC streamer GreatMoonAroma․ if you like 3d art․ enjoyǃ",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
 					"ReleaseStatus": "public"
 				},
 				{
@@ -55,11 +40,6 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "現実の写真の中に入れるワールドです。写真は随時追加予定。It's a world that puts you in the picture of reality․",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
 					"ReleaseStatus": "public"
 				}
 			]
@@ -73,11 +53,6 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 16,
 					"Description": "This is a game world that refers like FF14 and TON․ Combine your skills‚ hone your techniques‚ defeat the BOSS and get rewards․ Find your comrades‚ form a raiding party‚ and gain reputation․ Aim to defeat the final bossǃ",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
 					"ReleaseStatus": "public"
 				},
 				{
@@ -86,11 +61,6 @@
 					"RecommendedCapacity": 6,
 					"Capacity": 6,
 					"Description": "2025⁄10⁄25 EXTRASTAGE UPDATE ソウルライクRPGワールドです。 プレイ人数：1～6人 セーブ機能あり Soul Like RPG World․ Number of players˸ 1-6 Save function available․ ＃WORLD_OF_THE_SOUL",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
 					"ReleaseStatus": "public"
 				},
 				{
@@ -2112,6 +2082,19 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "欢迎来到ＹHMMD中秋特别地图，该地图开放7天，延长至22日，希望大家玩的愉快。最后祝大家中秋节快乐！ 最后特别感谢春蕾不觉晓提供的场景",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_750bbc51-cd52-4b6f-9293-f3f6e9ac89c6",
+					"Name": "R4D",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "This world is for gentlemen and ladies over the age of 18 to enjoy․ Also‚ it's a private world‚ so please don't create it with Group＋․ Please enjoy it with friends‚ invites‚ or groups onlyǃ Pleaseǃ 当ワールドは18歳以上の紳士淑女が楽しむワールドです。 それとプライベートワールドなのでグループ＋ではたてないでね？ フレンドかインバイト、グループオンリーで楽しんでね！お願い！ 这个世界仅限18岁以上的男士和女士畅玩。 另外，这是一个私人世界，所以请不要使用Group＋创建它，好吗？ 请仅与朋友、受邀者或群组一起畅玩！拜托了！ 당 월드는 18세 이상의 신사 숙녀가 즐기는 월드입니다․ 그리고 프라이빗 월드이므로 그룹 ＋에서는 접지 마세요? 친구나 인바이트‚ 그룹 전용으로 즐기세요ǃ 부탁ǃ\nPW:0407",
 					"Platform": {
 						"PC": true,
 						"Android": false,
