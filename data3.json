@@ -1898,6 +1898,11 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "Fragment flow",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				},
 				{
@@ -2107,6 +2112,19 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "欢迎来到ＹHMMD中秋特别地图，该地图开放7天，延长至22日，希望大家玩的愉快。最后祝大家中秋节快乐！ 最后特别感谢春蕾不觉晓提供的场景",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_3f45d6dd-ebab-4f33-83c2-2e4bdb5b6f40",
+					"Name": "Room for Dancing-Side․B-",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "Room for Dancing - Side․B - This world is for VIPs only․ For gentlemen and ladies over the age of 18 to enjoy․ Also‚ it's a private world‚ so please don't create it with Group＋ and Public․․",
 					"Platform": {
 						"PC": true,
 						"Android": false,
