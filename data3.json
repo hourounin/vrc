@@ -1341,32 +1341,6 @@
 			"Category": "MMD",
 			"Worlds": [
 				{
-					"ID": "wrld_c64f5123-c05a-4ae9-85df-7a84f7b2ad66",
-					"Name": "MMD Club for Gentlemen",
-					"RecommendedCapacity": 8,
-					"Capacity": 16,
-					"Description": "vrcdefaultworldscene\nPW:R18  1743",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_b6185f31-a437-46cd-a4e6-cbe87fb10467",
-					"Name": "MMD Club for Gentlemen NSFW",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "MMD Club for Gentlemen\nPW:R18  0000",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
 					"ID": "wrld_8b4dedcc-3dfa-4bb9-989a-e6a8e9a1f08d",
 					"Name": "MMD ＆ Chill",
 					"RecommendedCapacity": 10,
@@ -1380,27 +1354,11 @@
 					"ReleaseStatus": "public"
 				},
 				{
-					"ID": "wrld_78d1791f-dd60-48b6-874f-5dcdd7575165",
-					"Name": "MMD ＠ Midnight",
-					"RecommendedCapacity": 24,
-					"Capacity": 36,
-					"Description": "MMD World for grownups",
-					"ReleaseStatus": "public"
-				},
-				{
 					"ID": "wrld_750bbc51-cd52-4b6f-9293-f3f6e9ac89c6",
 					"Name": "R4D",
 					"RecommendedCapacity": 16,
 					"Capacity": 16,
 					"Description": "This world is for gentlemen and ladies over the age of 18 to enjoy․ Also‚ it's a private world‚ so please don't create it with Group＋․ Please enjoy it with friends‚ invites‚ or groups onlyǃ Pleaseǃ 当ワールドは18歳以上の紳士淑女が楽しむワールドです。 それとプライベートワールドなのでグループ＋ではたてないでね？ フレンドかインバイト、グループオンリーで楽しんでね！お願い！ 这个世界仅限18岁以上的男士和女士畅玩。 另外，这是一个私人世界，所以请不要使用Group＋创建它，好吗？ 请仅与朋友、受邀者或群组一起畅玩！拜托了！ 당 월드는 18세 이상의 신사 숙녀가 즐기는 월드입니다․ 그리고 프라이빗 월드이므로 그룹 ＋에서는 접지 마세요? 친구나 인바이트‚ 그룹 전용으로 즐기세요ǃ 부탁ǃ\nPW:0407",
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_3f45d6dd-ebab-4f33-83c2-2e4bdb5b6f40",
-					"Name": "Room for Dancing-Side․B-",
-					"RecommendedCapacity": 16,
-					"Capacity": 16,
-					"Description": "Room for Dancing - Side․B - This world is for VIPs only․ For gentlemen and ladies over the age of 18 to enjoy․ Also‚ it's a private world‚ so please don't create it with Group＋ and Public․․",
 					"ReleaseStatus": "private"
 				}
 			],
@@ -1411,22 +1369,6 @@
 		{
 			"Category": "煎餅菓子",
 			"Worlds": [
-				{
-					"ID": "wrld_f721fc33-41be-4563-b54f-190c953a8281",
-					"Name": "病名は愛だった",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "届かない恋",
-					"ReleaseStatus": "public"
-				},
-				{
-					"ID": "wrld_25d80efd-6121-461b-96b2-3dc99cbfc51c",
-					"Name": "LiveHouse_MMD",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "不定时更新",
-					"ReleaseStatus": "private"
-				},
 				{
 					"ID": "wrld_1e42181b-1c59-4d66-9f95-4851cef7ca65",
 					"Name": "Opera Epiclese_MMD",
@@ -1495,22 +1437,6 @@
 					"Capacity": 26,
 					"Description": "HorrorWorld ≺ Iron Maiden - 鉄の処女 - ≻",
 					"ReleaseStatus": "public"
-				},
-				{
-					"ID": "wrld_35a50cc8-85c8-4842-9323-494355327d09",
-					"Name": "DPS TEST ROOM",
-					"RecommendedCapacity": 20,
-					"Capacity": 40,
-					"Description": "Dynamic Penetration System TEST ROOM",
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_398e71bb-069a-4007-a522-8bb2c76d592e",
-					"Name": "ラグドール（Ragdoll）お人形遊び",
-					"RecommendedCapacity": 2,
-					"Capacity": 4,
-					"Description": "一人遊びを想定しています。",
-					"ReleaseStatus": "private"
 				}
 			]
 		},
@@ -1572,22 +1498,6 @@
 					"Capacity": 32,
 					"Description": "17作目",
 					"ReleaseStatus": "public"
-				},
-				{
-					"ID": "wrld_35f4b956-080b-459f-84af-a5a430656356",
-					"Name": "【VRMV】カラバコにアイ",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "24",
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_8d3dc8f5-c607-4a15-96c4-a9d41df7fd76",
-					"Name": "【VRMV】月のワルツ",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "",
-					"ReleaseStatus": "private"
 				}
 			]
 		}
