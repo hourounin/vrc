@@ -261,6 +261,45 @@
 					"Capacity": 10,
 					"Description": "v0․5 （Early Demo Playtest for www․patreon․com⁄Mantibro） Co-op Roguelite Arena Fighter Action RPG",
 					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_2b9649be-7929-4885-b2df-0b45855302e6",
+					"Name": "VOTOMS test world",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "msr",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_1c29df98-a567-4a87-a680-f1e40694fd83",
+					"Name": "GUNDAM UC Test world Ver4",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "GUNDAM UC Test world",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_66f58a96-5be2-48c6-914a-f95b9cfa43a6",
+					"Name": "SEED Launch Test WIP",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "WIP SEED Test world",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
 				}
 			]
 		},
@@ -1290,6 +1329,11 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "R room",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
 					"ReleaseStatus": "public"
 				},
 				{
@@ -1298,6 +1342,11 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				},
 				{
@@ -1306,6 +1355,24 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "作業に適した工房とギャラリーを兼ねています ゆっくりしていってね！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_1c422a37-0022-45e5-bda1-3396afe97cbe",
+					"Name": "tst",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "tst",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				},
 				{
@@ -1314,6 +1381,11 @@
 					"RecommendedCapacity": 6,
 					"Capacity": 6,
 					"Description": "WA GA YA ǃǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				},
 				{
@@ -1322,6 +1394,11 @@
 					"RecommendedCapacity": 8,
 					"Capacity": 8,
 					"Description": "test",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				},
 				{
@@ -1330,6 +1407,24 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "よなぎ home",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_96ed4519-f688-4f4a-a827-3c5a07769e50",
+					"Name": "sleep in room",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ネル",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				}
 			],
