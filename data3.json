@@ -1252,11 +1252,16 @@
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_5b1632b7-5edd-48b8-8df7-9846545db822",
-					"Name": "DreamyPurpleRE",
+					"ID": "wrld_8a119d19-3d73-4eda-bcd4-8616b39954d0",
+					"Name": "Room SemiCircle",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "DreamyPurpleRE",
+					"Description": "Room SemiCircle",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
 					"ReleaseStatus": "private"
 				},
 				{
@@ -1363,6 +1368,14 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "",
+					"Name": "",
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": "",
+					"ReleaseStatus": "public"
+				},
+				{
 					"ID": "wrld_1c422a37-0022-45e5-bda1-3396afe97cbe",
 					"Name": "tst",
 					"RecommendedCapacity": 16,
@@ -1402,6 +1415,14 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "",
+					"Name": "",
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": "",
+					"ReleaseStatus": "public"
+				},
+				{
 					"ID": "wrld_35e8179e-c987-4cf3-b622-ec699b2148ac",
 					"Name": "よなぎ home",
 					"RecommendedCapacity": 16,
@@ -1420,6 +1441,27 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "ネル",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "",
+					"Name": "",
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": "",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f9ede0e9-0059-4719-bc0a-c7dfa83bd85f",
+					"Name": "ありはうす",
+					"RecommendedCapacity": 11,
+					"Capacity": 11,
+					"Description": "ありはうす",
 					"Platform": {
 						"PC": true,
 						"Android": false,
