@@ -1899,6 +1899,14 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_fa5e94f9-fd3d-4539-ad3e-25fb4e82a9d2",
+					"Name": "9․5 world",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "9․5 world",
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "",
 					"Name": "",
 					"RecommendedCapacity": 0,
@@ -1928,16 +1936,37 @@
 			"Category": "MMD",
 			"Worlds": [
 				{
-					"ID": "wrld_750bbc51-cd52-4b6f-9293-f3f6e9ac89c6",
-					"Name": "R4D",
-					"RecommendedCapacity": 16,
-					"Capacity": 16,
-					"Description": "This world is for gentlemen and ladies over the age of 18 to enjoy․ Also‚ it's a private world‚ so please don't create it with Group＋․ Please enjoy it with friends‚ invites‚ or groups onlyǃ Pleaseǃ 当ワールドは18歳以上の紳士淑女が楽しむワールドです。 それとプライベートワールドなのでグループ＋ではたてないでね？ フレンドかインバイト、グループオンリーで楽しんでね！お願い！ 这个世界仅限18岁以上的男士和女士畅玩。 另外，这是一个私人世界，所以请不要使用Group＋创建它，好吗？ 请仅与朋友、受邀者或群组一起畅玩！拜托了！ 당 월드는 18세 이상의 신사 숙녀가 즐기는 월드입니다․ 그리고 프라이빗 월드이므로 그룹 ＋에서는 접지 마세요? 친구나 인바이트‚ 그룹 전용으로 즐기세요ǃ 부탁ǃ\nPW:0407",
+					"ID": "wrld_037ae191-789b-4dbf-991f-5f6f5a17aa26",
+					"Name": "R4D․A",
+					"RecommendedCapacity": 12,
+					"Capacity": 12,
+					"Description": "This world is for gentlemen and ladies over the age of 18 to enjoy․ Also‚ it's a private world‚ so please don't create it with ＂Group＂ ＆ ＂Group＋＂ Please enjoy it with friends‚ invites․ onlyǃ Pleaseǃ\nPW:0407",
 					"Platform": {
 						"PC": true,
 						"Android": false,
 						"iOS": false
 					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_0094120f-eaef-4113-88be-4c75c6d1619c",
+					"Name": "R4D․B",
+					"RecommendedCapacity": 6,
+					"Capacity": 6,
+					"Description": "This world is for gentlemen and ladies over the age of 18 to enjoy․ Also‚ it's a private world‚ so please don't create it with Group＋․ Please enjoy it with friends‚ invites‚ or groups onlyǃ Pleaseǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_df4af09f-e705-4a51-8eb3-6a8a54da8072",
+					"Name": "Club M〇D",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Club M〇D\nPW:R18  0000",
 					"ReleaseStatus": "private"
 				}
 			],
@@ -1960,6 +1989,45 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_edee63c8-2e9d-4f80-9c11-6f6df99f88cb",
+					"Name": "魅魔社百老汇歌舞厅",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "魅魔社百老汇歌舞厅",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_277231bd-aad6-4a9f-8ea0-2c3ba90fc216",
+					"Name": "Samurai Superfans Apartment",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Samurai Superfans Apartment",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_25717cdf-a085-4f87-93bf-33a22a314c83",
+					"Name": "せんべいの戸締まり",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "せんべいの戸締まり",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
 				}
 			],
 			"PermittedRoles": [
