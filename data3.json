@@ -1865,6 +1865,19 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_e1f95edb-5fc6-4572-8ca3-8af4c222967f",
+					"Name": "Deep Lull_My home",
+					"RecommendedCapacity": 9,
+					"Capacity": 9,
+					"Description": "My homeǃ? ․․․yesǃǃ my homeǃǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "",
 					"Name": "",
 					"RecommendedCapacity": 0,
@@ -1949,19 +1962,6 @@
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_0094120f-eaef-4113-88be-4c75c6d1619c",
-					"Name": "R4D․B",
-					"RecommendedCapacity": 6,
-					"Capacity": 6,
-					"Description": "This world is for gentlemen and ladies over the age of 18 to enjoy․ Also‚ it's a private world‚ so please don't create it with Group＋․ Please enjoy it with friends‚ invites‚ or groups onlyǃ Pleaseǃ",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
 					"ID": "wrld_df4af09f-e705-4a51-8eb3-6a8a54da8072",
 					"Name": "Club M〇D",
 					"RecommendedCapacity": 16,
@@ -1991,6 +1991,19 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_820a849c-02ca-4eb4-bcec-34c99ba1652e",
+					"Name": "病名は愛だった",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
 					"ID": "wrld_edee63c8-2e9d-4f80-9c11-6f6df99f88cb",
 					"Name": "魅魔社百老汇歌舞厅",
 					"RecommendedCapacity": 40,
@@ -2015,6 +2028,14 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b118c0b4-3676-46a7-a414-486039ef2c29",
+					"Name": "Samurai_Superfans_Apartment",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Samurai_Superfans_Apartment",
+					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_25717cdf-a085-4f87-93bf-33a22a314c83",
