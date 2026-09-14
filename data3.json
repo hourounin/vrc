@@ -1776,6 +1776,212 @@
 			]
 		},
 		{
+			"Category": "VRCW",
+			"Worlds": [
+				{
+					"ID": "wrld_b7e06777-b709-44a0-8caa-76f89b5a07c0",
+					"Name": "MMD Club for Gentlemen",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "PW˸1743 R18",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_b29f2aa1-4270-4af2-9ab4-630d9ef3280d",
+					"Name": "room for dancing no vip",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "MMD",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_5f6b8ae9-5208-4e39-a56b-678466fa59ff",
+					"Name": "r4d",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_76587a35-670c-4a91-89a8-340a8339f42e",
+					"Name": "Just H Dance",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VR",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_d5beffc1-8003-435f-a744-c5426158d5cd",
+					"Name": "私密空间",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_7931759e-b4c5-49df-b9eb-5dee243187e8",
+					"Name": "放課後イータイム",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "17189",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_fe6397fa-b4fa-407d-b5d4-d46925ca8f87",
+					"Name": "LiveHouse MMD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "PW˸17189",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_6dd7ae6b-1c2a-45af-a7e6-608f342b6d04",
+					"Name": "work in progress MMD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "",
+					"Name": "",
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": "",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2467e8bc-d7b8-49b7-92bd-8ca970534978",
+					"Name": "ragdoll",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "0000",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_1d00a709-447d-436c-8d4d-b6291e745343",
+					"Name": "illstudio",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_104ff71d-1427-4053-9010-077ac855d007",
+					"Name": "作者がモノ扱いされたくて作ったワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "000",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "",
+					"Name": "",
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": "",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8a34bdd1-c28b-4e26-a808-4032849fd86b",
+					"Name": "Aurelia",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_c89f2ad4-d85a-438a-9a0e-2fcc75104aae",
+					"Name": "Midnight",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_e3eb8308-5b8a-4dc6-98b2-65526d8845cb",
+					"Name": "学校の野外ERP Ep2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				}
+			],
+			"PermittedRoles": [
+				"HIDE"
+			]
+		},
+		{
 			"Category": "フレンドワールド",
 			"Worlds": [
 				{
@@ -1920,6 +2126,19 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_cf6743f2-41c3-4b49-b360-d72e9cb937fa",
+					"Name": "Lura`s Room",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Lura`s Room",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "",
 					"Name": "",
 					"RecommendedCapacity": 0,
@@ -1949,24 +2168,16 @@
 			"Category": "MMD",
 			"Worlds": [
 				{
-					"ID": "wrld_037ae191-789b-4dbf-991f-5f6f5a17aa26",
-					"Name": "R4D․A",
-					"RecommendedCapacity": 12,
-					"Capacity": 12,
-					"Description": "This world is for gentlemen and ladies over the age of 18 to enjoy․ Also‚ it's a private world‚ so please don't create it with ＂Group＂ ＆ ＂Group＋＂ Please enjoy it with friends‚ invites․ onlyǃ Pleaseǃ\nPW:0407",
+					"ID": "wrld_34e1b084-8530-4fb3-90e3-e5718416b476",
+					"Name": "R4D․B",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "R4D․B （Arc1）1） This world is R-18․ It contains nudity and sexual content․ Those under 18 are not permitted to use it․ 2） This world can only be used as a private world․ When using it‚ please launch the instance from the link below․ Instances cannot be launched in Public‚ Group‚ Group＋‚ or Friend＋ modes on Sides B and C‚ except for Side A․ Please enjoy it in Invite or Friend mode․ Side․A allows Group instances‚ but please launch the instance as a world with R18 authentication enabled․",
 					"Platform": {
 						"PC": true,
 						"Android": false,
 						"iOS": false
 					},
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_df4af09f-e705-4a51-8eb3-6a8a54da8072",
-					"Name": "Club M〇D",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "Club M〇D\nPW:R18  0000",
 					"ReleaseStatus": "private"
 				}
 			],
