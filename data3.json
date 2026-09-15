@@ -2168,6 +2168,40 @@
 			"Category": "MMD",
 			"Worlds": [
 				{
+					"ID": "wrld_e3e917ad-651c-4e4d-9256-4fdad86a92a2",
+					"Name": "Test MMD",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "Test MMD",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_c419e685-19de-43d4-9361-edabddc8ee91",
+					"Name": "MMD Dance Club for Ladies（β1․6）",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "This world is currently in beta testing and under construction․",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_785a974a-da4b-4652-9489-0991686a5601",
+					"Name": "MMD ＠ Midnight - VIP",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "VIP MMD Club for Adults",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "wrld_34e1b084-8530-4fb3-90e3-e5718416b476",
 					"Name": "R4D․B",
 					"RecommendedCapacity": 8,
