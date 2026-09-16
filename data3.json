@@ -1930,6 +1930,19 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_bcdda5f4-a730-450f-9e6b-4aa5adac5d0f",
+					"Name": "Special toy world V1․0",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "",
 					"Name": "",
 					"RecommendedCapacity": 0,
