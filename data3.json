@@ -387,7 +387,7 @@
 			]
 		},
 		{
-			"Category": "ゲームワールド β",
+			"Category": "ゲームワールド インバイト",
 			"Worlds": [
 				{
 					"ID": "wrld_0fb88df3-2057-4c2f-8e06-e948864378fd",
@@ -401,6 +401,27 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_9ea20762-e35a-43f9-9d3d-f3b7715a18be",
+					"Name": "LoadMineAidC",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "1～8人向け協力型タクティカルRPG。ジョブ・技・装備を組み、仲間と協力してダンジョンを攻略します。 ⁄ 18 Player Co-op Tactical RPG․ Build your job‚ skills and equipment‚ and clear dungeons with your party․ β ⁄ Beta․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "",
+					"Name": "",
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": "",
+					"ReleaseStatus": "public"
 				},
 				{
 					"ID": "wrld_2b9649be-7929-4885-b2df-0b45855302e6",
@@ -1930,19 +1951,6 @@
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_bcdda5f4-a730-450f-9e6b-4aa5adac5d0f",
-					"Name": "Special toy world V1․0",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
 					"ID": "",
 					"Name": "",
 					"RecommendedCapacity": 0,
@@ -2181,19 +2189,6 @@
 			"Category": "MMD",
 			"Worlds": [
 				{
-					"ID": "wrld_e3e917ad-651c-4e4d-9256-4fdad86a92a2",
-					"Name": "Test MMD",
-					"RecommendedCapacity": 24,
-					"Capacity": 48,
-					"Description": "Test MMD",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
 					"ID": "wrld_c419e685-19de-43d4-9361-edabddc8ee91",
 					"Name": "MMD Dance Club for Ladies（β1․6）",
 					"RecommendedCapacity": 16,
@@ -2215,11 +2210,11 @@
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_34e1b084-8530-4fb3-90e3-e5718416b476",
-					"Name": "R4D․B",
-					"RecommendedCapacity": 8,
-					"Capacity": 8,
-					"Description": "R4D․B （Arc1）1） This world is R-18․ It contains nudity and sexual content․ Those under 18 are not permitted to use it․ 2） This world can only be used as a private world․ When using it‚ please launch the instance from the link below․ Instances cannot be launched in Public‚ Group‚ Group＋‚ or Friend＋ modes on Sides B and C‚ except for Side A․ Please enjoy it in Invite or Friend mode․ Side․A allows Group instances‚ but please launch the instance as a world with R18 authentication enabled․",
+					"ID": "wrld_005e267d-eb41-4536-9392-e4f30aabd4c7",
+					"Name": "tare_park",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "street",
 					"Platform": {
 						"PC": true,
 						"Android": false,
@@ -2286,14 +2281,6 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "public"
-				},
-				{
-					"ID": "wrld_b118c0b4-3676-46a7-a414-486039ef2c29",
-					"Name": "Samurai_Superfans_Apartment",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "Samurai_Superfans_Apartment",
-					"ReleaseStatus": "private"
 				},
 				{
 					"ID": "wrld_25717cdf-a085-4f87-93bf-33a22a314c83",
