@@ -68,6 +68,19 @@
 			"Category": "ゲームワールド",
 			"Worlds": [
 				{
+					"ID": "wrld_9ea20762-e35a-43f9-9d3d-f3b7715a18be",
+					"Name": "LoadMineAidC v1․0․1",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "1～8人向け協力型タクティカルRPG。ジョブ・技・装備を組み、仲間と協力してダンジョンを攻略します。 ⁄ 18 Player Co-op Tactical RPG․ Build your job‚ skills and equipment‚ and clear dungeons with your party․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
 					"ID": "wrld_0bbac6e6-5c80-40c2-80dd-273e960ea814",
 					"Name": "MELA - Memena's Lord Arena",
 					"RecommendedCapacity": 16,
@@ -395,19 +408,6 @@
 					"RecommendedCapacity": 10,
 					"Capacity": 10,
 					"Description": "v0․5 （Early Demo Playtest for www․patreon․com⁄Mantibro） Co-op Roguelite Arena Fighter Action RPG",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_9ea20762-e35a-43f9-9d3d-f3b7715a18be",
-					"Name": "LoadMineAidC",
-					"RecommendedCapacity": 8,
-					"Capacity": 8,
-					"Description": "1～8人向け協力型タクティカルRPG。ジョブ・技・装備を組み、仲間と協力してダンジョンを攻略します。 ⁄ 18 Player Co-op Tactical RPG․ Build your job‚ skills and equipment‚ and clear dungeons with your party․ β ⁄ Beta․",
 					"Platform": {
 						"PC": true,
 						"Android": false,
@@ -1612,6 +1612,19 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_f76c80b2-d99c-48ec-91dd-3b5b99792a15",
+					"Name": "HD0",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "HD0",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "",
 					"Name": "",
 					"RecommendedCapacity": 0,
@@ -2208,7 +2221,15 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "private"
-				},
+				}
+			],
+			"PermittedRoles": [
+				"HIDE"
+			]
+		},
+		{
+			"Category": "MMD",
+			"Worlds": [
 				{
 					"ID": "wrld_005e267d-eb41-4536-9392-e4f30aabd4c7",
 					"Name": "tare_park",
@@ -2220,6 +2241,14 @@
 						"Android": false,
 						"iOS": false
 					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_e5a598cf-ecda-461c-ac55-ed6c02963662",
+					"Name": "抓起來把你配了 v0․5",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "请不要建立public游玩哦",
 					"ReleaseStatus": "private"
 				}
 			],
