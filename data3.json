@@ -1724,6 +1724,14 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_1c3ea3ff-62fb-4726-aeb2-c759d8c0f3d8",
+					"Name": "HD0",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "HD0",
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "",
 					"Name": "",
 					"RecommendedCapacity": 0,
