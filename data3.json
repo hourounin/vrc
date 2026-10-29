@@ -1834,19 +1834,6 @@
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_b29f2aa1-4270-4af2-9ab4-630d9ef3280d",
-					"Name": "room for dancing no vip",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "MMD",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
 					"ID": "wrld_5f6b8ae9-5208-4e39-a56b-678466fa59ff",
 					"Name": "r4d",
 					"RecommendedCapacity": 16,
@@ -1925,6 +1912,19 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_56291b51-320a-4e0c-8554-55f20422a450",
+					"Name": "GiGi The Boom Boom",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "GiGi The Boom Boom",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "",
 					"Name": "",
 					"RecommendedCapacity": 0,
@@ -1978,45 +1978,6 @@
 					"Capacity": 0,
 					"Description": "",
 					"ReleaseStatus": "public"
-				},
-				{
-					"ID": "wrld_8a34bdd1-c28b-4e26-a808-4032849fd86b",
-					"Name": "Aurelia",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_c89f2ad4-d85a-438a-9a0e-2fcc75104aae",
-					"Name": "Midnight",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
-				},
-				{
-					"ID": "wrld_e3eb8308-5b8a-4dc6-98b2-65526d8845cb",
-					"Name": "学校の野外ERP Ep2",
-					"RecommendedCapacity": 16,
-					"Capacity": 32,
-					"Description": "",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
-					"ReleaseStatus": "private"
 				}
 			],
 			"PermittedRoles": [
