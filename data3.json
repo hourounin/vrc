@@ -1899,16 +1899,11 @@
 					"ReleaseStatus": "private"
 				},
 				{
-					"ID": "wrld_6dd7ae6b-1c2a-45af-a7e6-608f342b6d04",
+					"ID": "wrld_99a5a6db-8360-41d5-87b1-9fcd1ad2e5c0",
 					"Name": "work in progress MMD",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "",
-					"Platform": {
-						"PC": true,
-						"Android": false,
-						"iOS": false
-					},
+					"Description": "work in progress MMD",
 					"ReleaseStatus": "private"
 				},
 				{
