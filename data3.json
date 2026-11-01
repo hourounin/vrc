@@ -1834,6 +1834,19 @@
 					"ReleaseStatus": "private"
 				},
 				{
+					"ID": "wrld_20d54490-fd87-4eed-a05a-fb78ce81ed58",
+					"Name": "MMD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "MMD\nPw:1743",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
 					"ID": "wrld_5f6b8ae9-5208-4e39-a56b-678466fa59ff",
 					"Name": "r4d",
 					"RecommendedCapacity": 16,
@@ -2184,6 +2197,27 @@
 						"Android": false,
 						"iOS": false
 					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_c467abe0-011e-4a3a-abfe-375613081137",
+					"Name": "MMD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "MMD",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_29d621e7-7e68-476c-a679-388a484b2006",
+					"Name": "TEST MMD",
+					"RecommendedCapacity": 32,
+					"Capacity": 80,
+					"Description": "https˸⁄⁄discord․gg⁄VeUmWrTzcR ［EN］ Please set the world to private only （Group only‚ etc․）․ Do not set it to public （Group＋‚ Group public‚ Friend＋‚ etc․） ［JP］ ワールドをプライベート（Group only など）のみに設定してください。パブリック（Group＋、Group public、Friend＋ など）には設定しないでください ［CN］ 请将世界设置为仅私密（仅限群组等）。不要设置为公开（Group＋、Group public、好友＋ 等） ［KR］ 월드를 프라이빗 전용（Group only 등）으로만 설정해 주세요․ 퍼블릭（Group＋‚ Group public‚ Friend＋ 등）으로 설정하지 마세요",
 					"ReleaseStatus": "private"
 				}
 			],
