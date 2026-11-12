@@ -1986,6 +1986,14 @@
 					"Capacity": 0,
 					"Description": "",
 					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9460b00f-cae9-4d48-bc05-cb982ec294e2",
+					"Name": "あーるふぉーでぃーＣ_standalone2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "あーるふぉーでぃーＣ_standalone2",
+					"ReleaseStatus": "private"
 				}
 			],
 			"PermittedRoles": [
